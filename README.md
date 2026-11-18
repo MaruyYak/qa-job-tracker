@@ -11,6 +11,7 @@
 - LinkedIn, hh.kz, Djinni, Relocate.me: готовые ссылки-поиски внизу страницы (автоматический сбор там запрещён или закрыт).
 
 ## Фильтры (`tracker/filters.py`)
+- Уровень: от Middle до Senior. Отбрасываются Junior/Intern/Trainee, Lead/Head/Principal/Staff/Director, а также любые Manager и Analyst.
 - Роль: QA / Tester / Quality Assurance в названии. Отбрасываются Automation, AQA, SDET, Performance, Security, если в названии нет слова Manual. Если название общее («QA Engineer»), а в описании нет слова manual и упомянуто 3+ инструмента автоматизации, вакансия тоже отбрасывается.
 - Локация: remote в Европе/EMEA/СНГ, remote без ограничения страны, офис в Грузии/Казахстане, или явная релокация/визовая поддержка в Европу.
 

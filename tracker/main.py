@@ -11,7 +11,7 @@ import os
 import pathlib
 import re
 
-from .filters import evaluate
+from .filters import evaluate, title_allowed
 from .sources import ats, boards, telegram
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
@@ -104,7 +104,7 @@ def main():
         result.append(j)
     cutoff = dt.datetime.now(dt.timezone.utc) - dt.timedelta(days=KEEP_DAYS)
     for jid, j in old.items():
-        if jid in matched:
+        if jid in matched or not title_allowed(j.get("title", "")):
             continue
         if dt.datetime.fromisoformat(j["last_seen"]) >= cutoff:
             j["active"] = False  # пропала из источника: скорее всего закрыта

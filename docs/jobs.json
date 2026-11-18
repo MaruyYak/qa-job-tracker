@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-18T17:48:52+00:00",
- "count": 79,
+ "count": 61,
  "sources": {
   "ashby:airwallex": 6,
   "ashby:ajax": 0,
@@ -238,24 +238,6 @@
   },
   {
    "source": "Himalayas",
-   "company": "EUROPEAN DYNAMICS",
-   "title": "Software Tester/ Junior IT Consultant fluent in German (m/w/d) TST/09/2026",
-   "location": "Greece",
-   "remote": true,
-   "url": "https://himalayas.app/companies/european-dynamics/jobs/software-tester-junior-it-consultant-fluent-in-german-m-w-d-tst-09-2026?utm_source=api",
-   "posted": "2026-11-16T16:53:43+00:00",
-   "description": "Are you a Software Tester/Junior IT Consultant fluent in German? We are currently seeking a talented individual to join our team. You have the option to work from our Thessaloniki or Athens office, or remotely. Tasks Software testing and close collaboration with the client and the development team; Manual software testing of web applications; Creation of test cases; Documentation (e.g. user manual); Support and 3rd-level service desk; Communication with developers and business analysts. Requirements Motivated, analytical, communicative, and result-oriented; Fluency in German (at least C1) mand",
-   "tags": [
-    "manual в описании",
-    "remote Европа"
-   ],
-   "id": "452fe2c195ae",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
    "company": "Caixa Mágica Software",
    "title": "QA Tester E-Commerce",
    "location": "Portugal",
@@ -415,40 +397,6 @@
   },
   {
    "source": "Himalayas",
-   "company": "EUROPEAN DYNAMICS",
-   "title": "Business Analyst/Software Tester fluent in Spanish",
-   "location": "Greece",
-   "remote": true,
-   "url": "https://himalayas.app/companies/european-dynamics/jobs/business-analyst-software-tester-fluent-in-spanish-3787749961?utm_source=api",
-   "posted": "2026-11-04T19:09:21+00:00",
-   "description": "Are you fluent in Spanish and passionate about driving software projects to success? We’re seeking a skilled Business Analyst / Software Tester to join our team in Athens or work remotely. In this role, you'll play a pivotal role in software implementation and maintenance projects, collaborating closely with both our internal teams and our valued clients. What You'll Do: You will be involved in the whole life cycle of projects from a business perspective and collaborate closely with the client and the development teams. More analytically you will be engaged in: Performing requirements analysis",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "7517515fe309",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "Grüns",
-   "title": "Quality Assurance Manager, International",
-   "location": "Germany, United Kingdom",
-   "remote": true,
-   "url": "https://himalayas.app/companies/gruns/jobs/quality-assurance-manager-international?utm_source=api",
-   "posted": "2026-11-04T18:57:36+00:00",
-   "description": "We're so happy you're here! Thank you for checking our job out and we hope to have the chance to meet you in our interview process! About the role We are hiring for our first dedicated international quality hire at Grüns . You'll own the quality system for every market outside the US: product release, specifications, complaints and adverse events, incident management, contract manufacturer oversight, stability, and transit qualification. For products sold in the EU, you'll build and run the Quality Management System processes that keep us compliant with EU and local market requirements across ",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "6f67ab877a05",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
    "company": "OnHires",
    "title": "QA Engineer (Manual, Mobile)",
    "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
@@ -515,23 +463,6 @@
     "remote Европа"
    ],
    "id": "036a4ac6b93d",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "My VA Support, Inc.",
-   "title": "Quality Assurance Analyst and Recruitment Specialist- ENGLISH C1  (LATAM only)",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-   "remote": true,
-   "url": "https://himalayas.app/companies/my-va-support-inc/jobs/quality-assurance-analyst-and-recruitment-specialist-english-c1-latam-only?utm_source=api",
-   "posted": "2026-11-01T13:08:03+00:00",
-   "description": "This is a remote position. At MyVA Support we are seeking a multi-talented individual to join our team remotely. This role combines Quality Assurance responsibilities with HR tasks, focusing on maintaining high service quality standards while playing a key role in the recruitment process. The ideal candidate will ensure adherence to quality policies, provide coaching, generate performance reports,participate in strategy meetings to improve service quality,and assist with candidate screening and interview scheduling. Key Responsibilities: Monitor and analyze adherence to quality policies and pr",
-   "tags": [
-    "remote СНГ"
-   ],
-   "id": "5439990b970a",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
@@ -638,24 +569,6 @@
     "remote Европа"
    ],
    "id": "b39943dc5692",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "EUROPEAN DYNAMICS",
-   "title": "Software Tester/ Junior IT Consultant fluent in German (m/w/d) TST/08/2026",
-   "location": "Greece",
-   "remote": true,
-   "url": "https://himalayas.app/companies/european-dynamics/jobs/software-tester-junior-it-consultant-fluent-in-german-m-w-d-tst-08-2026?utm_source=api",
-   "posted": "2026-10-29T17:03:03+00:00",
-   "description": "Are you a Software Tester/Junior IT Consultant fluent in German? We are currently seeking a talented individual to join our team. You have the option to work from our Thessaloniki or Athens office, or remotely. Tasks Software testing and close collaboration with the client and the development team; Manual software testing of web applications; Creation of test cases; Documentation (e.g. user manual); Support and 3rd-level service desk; Communication with developers and business analysts. Requirements Motivated, analytical, communicative, and result-oriented; Fluency in German (at least C1) mand",
-   "tags": [
-    "manual в описании",
-    "remote Европа"
-   ],
-   "id": "8a65f0f25327",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
@@ -874,24 +787,6 @@
   },
   {
    "source": "Himalayas",
-   "company": "EUROPEAN DYNAMICS",
-   "title": "Software Tester/ Junior IT Consultant fluent in German (m/w/d) TST/10/2026",
-   "location": "Greece",
-   "remote": true,
-   "url": "https://himalayas.app/companies/european-dynamics/jobs/software-tester-junior-it-consultant-fluent-in-german-m-w-d-tst-10-2026?utm_source=api",
-   "posted": "2026-10-08T10:05:18+00:00",
-   "description": "Are you a Software Tester/Junior IT Consultant fluent in German? We are currently seeking a talented individual to join our team. You have the option to work from our Thessaloniki or Athens office, or remotely. Tasks Software testing and close collaboration with the client and the development team; Manual software testing of web applications; Creation of test cases; Documentation (e.g. user manual); Support and 3rd-level service desk; Communication with developers and business analysts. Requirements Motivated, analytical, communicative, and result-oriented; Fluency in German (at least C1) mand",
-   "tags": [
-    "manual в описании",
-    "remote Европа"
-   ],
-   "id": "db53482372b2",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
    "company": "Bikeleasing-Service",
    "title": "Senior QA Engineer (gn)",
    "location": "Germany",
@@ -927,40 +822,6 @@
   },
   {
    "source": "Himalayas",
-   "company": "EUROPEAN DYNAMICS",
-   "title": "Junior Business Analyst/Software Tester fluent in French",
-   "location": "Greece",
-   "remote": true,
-   "url": "https://himalayas.app/companies/european-dynamics/jobs/junior-business-analyst-software-tester-fluent-in-french-9199113332?utm_source=api",
-   "posted": "2026-10-05T16:47:32+00:00",
-   "description": "Are you fluent in French and passionate about driving software projects to success? We’re seeking a skilled Business Analyst / Software Tester to join our team in Athens or work remotely. In this role, you'll play a pivotal role in software implementation and maintenance projects, collaborating closely with both our internal teams and our valued clients. What You'll Do: You will be involved in the whole life cycle of projects from a business perspective and collaborate closely with the client and the development teams. More analytically you will be engaged in: Performing requirements analysis;",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "a2f340c7b04d",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "EUROPEAN DYNAMICS",
-   "title": "Business Analyst/Software Tester fluent in French",
-   "location": "Greece",
-   "remote": true,
-   "url": "https://himalayas.app/companies/european-dynamics/jobs/business-analyst-software-tester-fluent-in-french?utm_source=api",
-   "posted": "2026-10-05T16:47:32+00:00",
-   "description": "Are you fluent in French and passionate about driving software projects to success? We’re seeking a skilled Business Analyst / Software Tester to join our team in Athens or work remotely. In this role, you'll play a pivotal role in software implementation and maintenance projects, collaborating closely with both our internal teams and our valued clients. What You'll Do: You will be involved in the whole life cycle of projects from a business perspective and collaborate closely with the client and the development teams. More analytically you will be engaged in: Performing requirements analysis;",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "e4c2e1cdd98f",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
    "company": "It's Prodigy",
    "title": "Software Tester - QA",
    "location": "Italy",
@@ -972,24 +833,6 @@
     "remote Европа"
    ],
    "id": "4d3423243299",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "Trust Payments",
-   "title": "Lead QA Engineer (Bangor / All UK)",
-   "location": "United Kingdom",
-   "remote": true,
-   "url": "https://himalayas.app/companies/trust-payments/jobs/lead-qa-engineer-bangor-all-uk?utm_source=api",
-   "posted": "2026-10-02T17:04:55+00:00",
-   "description": "Company Description: Trust Payments is an MFSA-regulated in Malta; and an FCA-regulated company in the UK. We provide a range of payments and commerce solutions, with market-leading technology and data insights. We offer innovative payment methods and cutting-edge technologies, with a truly global presence. Our global offices cater to the most demanding business sectors, including retail, travel, hospitality, forex, and financial services. Driving value for our clients and demonstrating genuine care for their success, is a core value of ours. We also believe in striving to build a better, more",
-   "tags": [
-    "manual в описании",
-    "remote Европа"
-   ],
-   "id": "1a0a165c2270",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
@@ -1268,23 +1111,6 @@
    "active": true
   },
   {
-   "source": "SmartRecruiters",
-   "company": "Wise",
-   "title": "Quality Assurance Team Lead",
-   "location": "Tallinn, , Estonia",
-   "remote": false,
-   "url": "https://jobs.smartrecruiters.com/wise/744000162079439",
-   "posted": "2026-11-17T13:31:55.002Z",
-   "description": "Wise is a global technology company, building the best way to move and manage the world’s money. Min fees. Max ease. Full speed. Whether people and businesses are sending money to another country, spending abroad, or making and receiving international payments, Wise is on a mission to make their lives easier and save them money. As part of our team, you will be helping us create an entirely new network for the world's money. For everyone, everywhere. More about our mission and what we offer . Join Wise’s Quality Assurance team and help us build world-class, scalable operations that keep custom",
-   "tags": [
-    "релокация"
-   ],
-   "id": "bdf98e8e2684",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
    "source": "Jobicy",
    "company": "Testlio",
    "title": "Freelance Software Tester | Remote in Italy",
@@ -1336,41 +1162,6 @@
    "active": false
   },
   {
-   "source": "SmartRecruiters",
-   "company": "CD PROJEKT RED",
-   "title": "Senior Tech QA Analyst - Audio",
-   "location": "Warsaw, Masovian Voivodeship, Poland",
-   "remote": false,
-   "url": "https://jobs.smartrecruiters.com/cdprojektred/744000160673443",
-   "posted": "2026-11-09T17:09:04.899Z",
-   "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for a Senior Tech QA Analyst - Audio to take ownership of quality, stability and performance across our shared audio technologies. Working closely with Audio Code, Sound Design, Music and QA teams, you will be responsible for validating complex audio",
-   "tags": [
-    "релокация"
-   ],
-   "id": "95b441e743f1",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Telegram @jobforqa",
-   "company": "",
-   "title": "1.  Junior Mobile QA Engineer",
-   "location": "Вакансии для тестировщиков. 1.  Junior Mobile QA Engineer 1 000–1 200 $ · Удалённо 2.  Senior Java Developer до 290 000 ₽ · Удалённо · РФ 3.  QA Automation Engineer (Python) до 230 000 ₽ · Удалённо · Россия 4.  Senior Java-разработчик 350 000–400 000 ₽ · Удалённо · Россия 5.  Tech Lead Удалённо · Europe 6.  Junior AQA Engineer (Java) Гибрид · Россия 7.  Python-разработчик Гибрид · Москва 8.  Manual QA Engineer Офис · Limassol, Cyprus 9.  QA Engineer Удалённо 10.  Tech Lead Frontend Developer Удалённо · Екатеринбург, Москва, Россия",
-   "remote": null,
-   "url": "https://t.me/jobforqa/1624",
-   "posted": "2026-11-09T13:19:17+00:00",
-   "description": "Вакансии для тестировщиков. 1. Junior Mobile QA Engineer 1 000–1 200 $ · Удалённо 2. Senior Java Developer до 290 000 ₽ · Удалённо · РФ 3. QA Automation Engineer (Python) до 230 000 ₽ · Удалённо · Россия 4. Senior Java-разработчик 350 000–400 000 ₽ · Удалённо · Россия 5. Tech Lead Удалённо · Europe 6. Junior AQA Engineer (Java) Гибрид · Россия 7. Python-разработчик Гибрид · Москва 8. Manual QA Engineer Офис · Limassol, Cyprus 9. QA Engineer Удалённо 10. Tech Lead Frontend Developer Удалённо · Екатеринбург, Москва, Россия",
-   "tags": [
-    "manual в описании",
-    "remote Европа"
-   ],
-   "id": "7826d5357178",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
    "source": "Ashby",
    "company": "voodoo",
    "title": "Senior QA Tester - Paper.io 2",
@@ -1384,24 +1175,6 @@
     "remote СНГ"
    ],
    "id": "40d71ad64f07",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "Dorado Software Group",
-   "title": "Quality Assurance Lead",
-   "location": "Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden",
-   "remote": true,
-   "url": "https://himalayas.app/companies/dorado-software-group/jobs/quality-assurance-lead-8355861317?utm_source=api",
-   "posted": "2026-11-01T13:10:13+00:00",
-   "description": "This is a new leadership role at NedGraphics, created to give our Quality Assurance (QA) function dedicated ownership at a senior level. You will lead a team of 5 QA engineers and take full responsibility for quality across our product portfolio, working closely with VP Engineering and the wider R&D team. AI tooling is increasing the pace and output of our engineering teams. This is an exciting moment to be leading QA: the opportunity is to build a modern, high-performing quality function that keeps pace with accelerating software delivery, expands automation coverage, and raises the bar on wh",
-   "tags": [
-    "manual в описании",
-    "remote Европа"
-   ],
-   "id": "a5cb4a6d8415",
    "first_seen": "2026-11-18T17:38:18+00:00",
    "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
@@ -1456,92 +1229,6 @@
    "first_seen": "2026-11-18T17:38:18+00:00",
    "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
-  },
-  {
-   "source": "SmartRecruiters",
-   "company": "CD PROJEKT RED",
-   "title": "Senior Technical QA Analyst (Publishing)",
-   "location": "Warsaw, Masovian Voivodeship, Poland",
-   "remote": false,
-   "url": "https://jobs.smartrecruiters.com/cdprojektred/744000156739380",
-   "posted": "2026-10-21T08:32:15.876Z",
-   "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is seeking a highly skilled and motivated Tech QA Analyst to join our Publishing team in Warsaw. Publishing QA is a team working across various projects, and had successfully supported releases of projects like Cyberpunk 2077 on Switch 2, ongoing Cyberpunk 2077",
-   "tags": [
-    "релокация"
-   ],
-   "id": "92880e757acd",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "SmartRecruiters",
-   "company": "CD PROJEKT RED",
-   "title": "QA Lead",
-   "location": "Warsaw, Masovian Voivodeship, Poland",
-   "remote": false,
-   "url": "https://jobs.smartrecruiters.com/cdprojektred/744000152367564",
-   "posted": "2026-09-29T09:34:45.265Z",
-   "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for QA Lead to join the Hadar project. In this role, you will manage the QA team within the project, adapting the project QA strategy into clear team plans, priorities and measurable outcomes. You will be responsible for developing a high-performing ",
-   "tags": [
-    "релокация"
-   ],
-   "id": "4c0aba88b262",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "SmartRecruiters",
-   "company": "CD PROJEKT RED",
-   "title": "Senior Shared Tech QA Analyst",
-   "location": "Warsaw, Masovian Voivodeship, Poland",
-   "remote": false,
-   "url": "https://jobs.smartrecruiters.com/cdprojektred/744000152197649",
-   "posted": "2026-09-28T14:35:45.155Z",
-   "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel and Beyond the Game Blog where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for a highly skilled and motivated Senior Shared Tech QA Analyst to join our Shared Tech QA function. Shared Tech QA supports studio-wide technologies used across multiple products and teams – covering engine systems, tools, pipelines, and cross-proj",
-   "tags": [
-    "manual в описании",
-    "релокация"
-   ],
-   "id": "e30ca44c4f71",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "SmartRecruiters",
-   "company": "CD PROJEKT RED",
-   "title": "QA Engineering Manager ",
-   "location": "Warsaw, Masovian Voivodeship, Poland",
-   "remote": false,
-   "url": "https://jobs.smartrecruiters.com/cdprojektred/744000149858320",
-   "posted": "2026-09-16T12:48:00.899Z",
-   "description": "To create revolutionary, story-driven RPGs which go straight to the hearts of gamers — this is our mission. Want to dive deeper into our company’s culture? Explore our social media and check out our YouTube channel where we share behind-the-scenes insights and stories direct from our team members! CD PROJEKT RED is looking for a QA Engineering Manager to build and lead our QA Engineering function. Your initial focus will be on supporting The Witcher 4, where the need for automation frameworks and tools is currently the strongest. Over time, your work will also span other projects such as Cyber",
-   "tags": [
-    "релокация"
-   ],
-   "id": "0d109e1be412",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:48:52+00:00",
-   "active": true
-  },
-  {
-   "source": "Ashby",
-   "company": "airwallex",
-   "title": "Manager, EMEA FCC Monitoring & Testing",
-   "location": "UK - Birmingham",
-   "remote": true,
-   "url": "https://jobs.ashbyhq.com/airwallex/c8254354-b052-4608-9854-81e255e37683",
-   "posted": "2026-08-20T09:17:53.123+00:00",
-   "description": "ABOUT AIRWALLEX Airwallex is the AI-native financial operating system for a real-time, intelligent economy. More than 675,000 businesses, including McLaren Racing, Qantas, SHEIN, and TikTok, use us, directly or through our platform partners, to run their financial operations or build and monetize financial products of their own. We started in Melbourne in 2015 to build the infrastructure global commerce runs on. We're the regulated backbone behind global payments: not by accident, but by design. A decade plus, 85+ licenses, and a financial infrastructure spanning North America, Europe, the Mid",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "af204e3db667",
-   "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:38:18+00:00",
-   "active": false
   }
  ]
 }

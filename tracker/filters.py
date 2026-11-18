@@ -37,9 +37,27 @@ AUTOMATION_TOOLS = re.compile(
 )
 
 
+# Не подходят по требованиям: менеджеры и аналитики
+EXCLUDED_ROLE = re.compile(r"\b(manager|management|analyst|аналитик\w*|менеджер\w*)\b", re.I)
+# Уровень: от Middle до Senior включительно
+TOO_SENIOR = re.compile(
+    r"\b(lead|leader|head|principal|staff|director|architect|chief|vp|vice president|"
+    r"лид|руководител\w*|ведущий|главный)\b", re.I)
+TOO_JUNIOR = re.compile(
+    r"\b(junior|jr|intern|internship|trainee|graduate|entry[- ]level|apprentice|student|"
+    r"джуниор|стажер\w*|стажёр\w*|младший)\b", re.I)
+
+
+def title_allowed(title: str) -> bool:
+    t = title or ""
+    return not (EXCLUDED_ROLE.search(t) or TOO_SENIOR.search(t) or TOO_JUNIOR.search(t))
+
+
 def role_match(title: str, description: str) -> tuple[bool, list[str]]:
     """Вернёт (подходит, теги)."""
     t = title or ""
+    if not title_allowed(t):
+        return False, []
     if not QA_TITLE.search(t):
         return False, []
     if NON_SOFTWARE.search(t):
