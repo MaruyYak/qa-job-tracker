@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T17:43:26+00:00",
- "count": 27,
+ "updated": "2026-11-18T17:48:52+00:00",
+ "count": 79,
  "sources": {
   "ashby:airwallex": 6,
   "ashby:ajax": 0,
@@ -159,12 +159,926 @@
   "arbeitnow": 1500,
   "remotive": 16,
   "remoteok": 97,
-  "himalayas": 20,
+  "himalayas": 227,
   "jobicy": 104,
   "weworkremotely": 97,
-  "telegram": 2
+  "telegram": 30
  },
  "jobs": [
+  {
+   "source": "Himalayas",
+   "company": "Torrero",
+   "title": "Manual QA Engineer (Core Team) - Remote",
+   "location": "Estonia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/torrero/jobs/manual-qa-engineer-core-team-remote?utm_source=api",
+   "posted": "2026-11-18T12:02:44+00:00",
+   "description": "Welcome to Torrero - all-in-one source for cutting-edge white label casino, sportsbook solutions and B2B aggregation. Built on a foundation of trust and compliance, we proudly offer an extensive library of 30,000+ games sourced from diverse providers, positioning Torrero as the preferred partner for transforming the iGaming enterprise. With huge number of sports events and easy payment options, we cater to diverse interests. Available in 35+ languages, we make gaming accessible worldwide. If you like a fast paced, dynamic and start-up work culture with full of passionate and enthusiastic minds",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "99218e027f57",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Sword",
+   "title": "Freelance QA Test Engineer – Manual & Automation",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "remote": true,
+   "url": "https://himalayas.app/companies/sword/jobs/freelance-qa-test-engineer-manual-automation?utm_source=api",
+   "posted": "2026-11-17T21:39:38+00:00",
+   "description": "At Sword Technologies, we support our clients in their digital transformation projects by contributing to high value-added missions within demanding environments. We place particular emphasis on the quality of the assignments we offer, as well as on supporting our employees in their professional development. As part of our continued growth, we are looking for a QA Test Engineer – Manual & Automation to strengthen our technical teams. Mission: You will join one of our clients in the banking sector , working within a cross-functional environment on the quality and validation of business applicat",
+   "tags": [
+    "manual+auto",
+    "remote Европа"
+   ],
+   "id": "2066fb894318",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Tester Work",
+   "title": "Looking for QA Testers in Czechia",
+   "location": "Czechia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/tester-work/jobs/looking-for-qa-testers-in-czechia?utm_source=api",
+   "posted": "2026-11-17T17:24:14+00:00",
+   "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech-enthusiasts in Czechia! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions: Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided; Functional Exploratory Test Cases: Explore the appl",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "fed2ff1b17c2",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Dreamix Ltd.",
+   "title": "QA Engineer",
+   "location": "Bulgaria",
+   "remote": true,
+   "url": "https://himalayas.app/companies/dreamix-ltd/jobs/qa-engineer?utm_source=api",
+   "posted": "2026-11-17T17:11:10+00:00",
+   "description": "Dreаmix was founded 20 years ago by passionate IT students, who wanted to create the dreamiest workplace where everyone is heard, works under transparent management, and lives up to their full potential. Now, many years later, we deliver software solutions for renowned companies from Germany, the UK, Switzerland, and Silicon Valley. Dreamix provides quality software services and products for top enterprises around the world through Java and Web technologies. We believe that the employer-employee relationship must be in the form of partnership not transaction. We are committed to investing as m",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "6dda9534cabe",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "Software Tester/ Junior IT Consultant fluent in German (m/w/d) TST/09/2026",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/software-tester-junior-it-consultant-fluent-in-german-m-w-d-tst-09-2026?utm_source=api",
+   "posted": "2026-11-16T16:53:43+00:00",
+   "description": "Are you a Software Tester/Junior IT Consultant fluent in German? We are currently seeking a talented individual to join our team. You have the option to work from our Thessaloniki or Athens office, or remotely. Tasks Software testing and close collaboration with the client and the development team; Manual software testing of web applications; Creation of test cases; Documentation (e.g. user manual); Support and 3rd-level service desk; Communication with developers and business analysts. Requirements Motivated, analytical, communicative, and result-oriented; Fluency in German (at least C1) mand",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "452fe2c195ae",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Caixa Mágica Software",
+   "title": "QA Tester E-Commerce",
+   "location": "Portugal",
+   "remote": true,
+   "url": "https://himalayas.app/companies/caixa-magica-software/jobs/qa-tester-e-commerce?utm_source=api",
+   "posted": "2026-11-14T04:31:03+00:00",
+   "description": "Overview: A Portuguese home décor and furniture brand with physical stores and e-commerce operations in Portugal and Spain is seeking a QA Tester E-Commerce to support the final stages of its online platform migration to Salesforce Commerce Cloud (SFCC). You will help ensure the quality of releases across integrations with PIM, stock systems, carriers and multiple payment methods operated by several legal entities, where delivery quality is critical to customer experience and revenue. What will you do? Propose, design and execute functional, regression and acceptance test scenarios for new fea",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "2943f62ccf50",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (Romania)",
+   "location": "Romania",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-romania-4663519989?utm_source=api",
+   "posted": "2026-11-12T17:40:54+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "c986040e711b",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (Netherlands)",
+   "location": "Netherlands",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-netherlands-7653792665?utm_source=api",
+   "posted": "2026-11-12T17:40:54+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "d66c8899020d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (Belgium)",
+   "location": "Belgium",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-belgium-7644967154?utm_source=api",
+   "posted": "2026-11-12T17:40:52+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "8fe0896ee525",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "uvation",
+   "title": "QA- Test Engineer",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/uvation/jobs/qa-test-engineer-5859239857?utm_source=api",
+   "posted": "2026-11-07T19:31:51+00:00",
+   "description": "Job Overview We are seeking an experienced Software QA & Testing Engineer to join our dynamic team. In this role, you will play a crucial part in ensuring the delivery of high-quality software through robust manual and automated testing processes, as well as adopting modern testing tools including Artificial Intelligence (AI) for enhanced efficiency and accuracy. You will lead the testing efforts to identify and resolve issues, optimize performance, ensure cross-browser compatibility, and verify the scalability and resiliency of software capabilities under load. As part of our commitment to in",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "7c18cf1f037d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "QA Engineer - Automation & Manual (Remote/Thessaloniki)",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/qa-engineer-automation-manual-remote-thessaloniki?utm_source=api",
+   "posted": "2026-11-07T00:47:07+00:00",
+   "description": "Are you a QA Engineer with expertise in Automated/Manual Testing , fluent in English and ready to contribute to international web development projects in the eGovernment sector? Join our team fully remotely or at our offices in Thessaloniki and become part of our dynamic environment where you'll collaborate closely with clients and internal teams. What You'll Do: Design, develop, and execute manual and automated test cases for complex eGovernment software systems; Prepare test plans, test cases, and test reports ensuring traceability of requirements; Use tools such as Selenium, SoapUI, and JMe",
+   "tags": [
+    "manual+auto",
+    "remote Европа"
+   ],
+   "id": "28f730565731",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Tester Work",
+   "title": "QA Testers wanted in Spain",
+   "location": "Spain",
+   "remote": true,
+   "url": "https://himalayas.app/companies/tester-work/jobs/qa-testers-wanted-in-spain?utm_source=api",
+   "posted": "2026-11-06T23:26:22+00:00",
+   "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Spain! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions: Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided; Functional Exploratory Test Cases: Explore the applic",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "0eb78c355a36",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "PadSplit",
+   "title": "QA Engineer (Anywhere in Europe)",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "remote": true,
+   "url": "https://himalayas.app/companies/padsplit/jobs/qa-engineer-anywhere-in-europe?utm_source=api",
+   "posted": "2026-11-06T18:24:51+00:00",
+   "description": "The Role We Need: PadSplit is hiring a QA Engineer to strengthen quality across our Marketplace pod, spanning Mobile (iOS/Android), Web, and backend Platform systems. As our product complexity increases, we need someone who can independently validate cross-platform user flows, reduce production risk, and increase release confidence through disciplined, hands-on testing. The Person We Are Looking For: We’re looking for a proactive, technically fluent QA Engineer who thrives in a dynamic startup environment and takes ownership of product quality. You’re comfortable working across mobile, web, an",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "ab7b2e6ff4a5",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Lifted (an Upwork Company)",
+   "title": "Native - Speakers Recording Quality Assurance",
+   "location": "Spain",
+   "remote": true,
+   "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/native-speakers-recording-quality-assurance-8947387830?utm_source=api",
+   "posted": "2026-11-06T15:30:18+00:00",
+   "description": "Listen carefully to each audio recording and compare it against the corresponding prompt text. Identify subtle differences between the spoken audio and written text. Correct minor text errors, including missing or added words. Identify and correct mispronunciations where applicable. Adjust punctuation to accurately reflect pauses, questions, and other aspects of the spoken delivery. Apply the appropriate issue tag when the recording contains a significant mismatch or quality problem. Distinguish between minor text corrections and issues that require a defined quality tag. Follow project guidel",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "a831c5e3a207",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "Business Analyst/Software Tester fluent in Spanish",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/business-analyst-software-tester-fluent-in-spanish-3787749961?utm_source=api",
+   "posted": "2026-11-04T19:09:21+00:00",
+   "description": "Are you fluent in Spanish and passionate about driving software projects to success? We’re seeking a skilled Business Analyst / Software Tester to join our team in Athens or work remotely. In this role, you'll play a pivotal role in software implementation and maintenance projects, collaborating closely with both our internal teams and our valued clients. What You'll Do: You will be involved in the whole life cycle of projects from a business perspective and collaborate closely with the client and the development teams. More analytically you will be engaged in: Performing requirements analysis",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "7517515fe309",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Grüns",
+   "title": "Quality Assurance Manager, International",
+   "location": "Germany, United Kingdom",
+   "remote": true,
+   "url": "https://himalayas.app/companies/gruns/jobs/quality-assurance-manager-international?utm_source=api",
+   "posted": "2026-11-04T18:57:36+00:00",
+   "description": "We're so happy you're here! Thank you for checking our job out and we hope to have the chance to meet you in our interview process! About the role We are hiring for our first dedicated international quality hire at Grüns . You'll own the quality system for every market outside the US: product release, specifications, complaints and adverse events, incident management, contract manufacturer oversight, stability, and transit qualification. For products sold in the EU, you'll build and run the Quality Management System processes that keep us compliant with EU and local market requirements across ",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "6f67ab877a05",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "OnHires",
+   "title": "QA Engineer (Manual, Mobile)",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "remote": true,
+   "url": "https://himalayas.app/companies/onhires/jobs/qa-engineer-manual-mobile?utm_source=api",
+   "posted": "2026-11-01T13:18:45+00:00",
+   "description": "Full-time | B2B Contract Salary: up to $2500/month Remote — Ukraine, Europe 🔹 For candidates based in Europe, knowledge of Ukrainian is a must-have Languages: Ukrainian — Native (mandatory) | English — Upper-Intermediate+ Our client is looking for a Manual QA Engineer to join their product team and ensure the quality and reliability of web and mobile applications, with a strong focus on mobile app testing. This is a pure manual QA role - no automation is required. Role Overvie w The QA Engineer will be responsible for hands-on manual testing across the product lifecycle. The role involves clos",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "05ba65ff8e38",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Aubrant Digital",
+   "title": "QA Engineer – Manual & Automation Testing (LATAM)",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+   "remote": true,
+   "url": "https://himalayas.app/companies/aubrant-digital/jobs/qa-engineer-manual-automation-testing-latam?utm_source=api",
+   "posted": "2026-11-01T13:17:31+00:00",
+   "description": "About Aubrant Aubrant Digital is a leader in multi-shore custom application development. We are passionate about solving our clients’ business problems through consultative teamwork, innovative software, and proven processes. We’ve served more than 50 clients and delivered hundreds of high quality, custom enterprise applications. Our clients value us as integral team members who get the job done on time and on spec, and we are proud of our high client retention rate and under 2% staff turnover. With offices in New Jersey, Boston, Costa Rica, and Eastern Europe, we execute the full software lif",
+   "tags": [
+    "manual+auto",
+    "remote СНГ"
+   ],
+   "id": "dd46082cfc6e",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Human Power BG",
+   "title": "Manual QA",
+   "location": "Bulgaria",
+   "remote": true,
+   "url": "https://himalayas.app/companies/human-power-bg/jobs/manual-qa?utm_source=api",
+   "posted": "2026-11-01T13:11:44+00:00",
+   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria.﻿﻿ ~~~~~~~~~~﻿ Our client is a leading provider in the new emerging Fintech world. Their Financial Platform as a Service (F-PaaS) enables companies to provide end-to-end financial services that are traditionally otherwise outsourced. F-PaaS empowers organizations to add new revenue channels, increase value to the customer, and improve client retention, from day one. Responsibilities: You will be responsible for manual testing of the tasks in a small to mid-sized team To review an",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "fba86c3a5b3d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Human Power BG",
+   "title": "Senior Manual QA",
+   "location": "Bulgaria",
+   "remote": true,
+   "url": "https://himalayas.app/companies/human-power-bg/jobs/senior-manual-qa?utm_source=api",
+   "posted": "2026-11-01T13:11:21+00:00",
+   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. -----﻿﻿ Our client have developed more than 20+ digital tools for HR management, team leadership, organizational development, and corporate culture under the brand. Their goal is to optimize and support the work of leaders and HR professionals worldwide with the help of pragmatic digital solutions and outstanding data-driven advisory assistance. We are looking for a responsible and self-motivated individual to join our team. Role Summary : As a Senior Manual QA Specialist, you w",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "036a4ac6b93d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "My VA Support, Inc.",
+   "title": "Quality Assurance Analyst and Recruitment Specialist- ENGLISH C1  (LATAM only)",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+   "remote": true,
+   "url": "https://himalayas.app/companies/my-va-support-inc/jobs/quality-assurance-analyst-and-recruitment-specialist-english-c1-latam-only?utm_source=api",
+   "posted": "2026-11-01T13:08:03+00:00",
+   "description": "This is a remote position. At MyVA Support we are seeking a multi-talented individual to join our team remotely. This role combines Quality Assurance responsibilities with HR tasks, focusing on maintaining high service quality standards while playing a key role in the recruitment process. The ideal candidate will ensure adherence to quality policies, provide coaching, generate performance reports,participate in strategy meetings to improve service quality,and assist with candidate screening and interview scheduling. Key Responsibilities: Monitor and analyze adherence to quality policies and pr",
+   "tags": [
+    "remote СНГ"
+   ],
+   "id": "5439990b970a",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Fluxon",
+   "title": "Manual QA Engineer",
+   "location": "Poland, Portugal",
+   "remote": true,
+   "url": "https://himalayas.app/companies/fluxon/jobs/manual-qa-engineer?utm_source=api",
+   "posted": "2026-11-01T12:15:47+00:00",
+   "description": "Who we are At Fluxon , we believe that how you build matters as much as what you build. We help businesses navigate their most important technology decisions with confidence, and take responsibility for seeing them through. Founded by ex-Googlers and startup veterans, we’re proud to partner with teams behind some of the most ambitious products, including Google, OpenAI, Anthropic, Walmart and Stripe. Our work spans strategy, design, and engineering — often in complex, AI-driven environments — where clarity, speed and quality are the standard. We use AI intentionally, applying it only where it ",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "e894529adcb1",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Pole To Win International",
+   "title": "LQA Game Tester (Polish) - Freelance Remote",
+   "location": "Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-polish-freelance-remote?utm_source=api",
+   "posted": "2026-11-01T12:10:10+00:00",
+   "description": "About the company Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in Japan in 1994, Side has grown to become a global force in the video games industry, with over 40 studios in 15 countries worldwide and offices across North America, Europe, South America, and Asia. Our industry-leading services include codev, art production, localization, audio production, quality assurance, localization QA, player support, community management, and datasets. For more",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "9bb0d9736e48",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Sonatafy Technology",
+   "title": "QA Engineer - Manual & Automation",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+   "remote": true,
+   "url": "https://himalayas.app/companies/sonatafy-technology/jobs/qa-engineer-manual-automation?utm_source=api",
+   "posted": "2026-11-01T11:21:09+00:00",
+   "description": "THIS OPENING IS AVAILABLE FOR CANDIDATES IN LATIN AMERICA, NOT LIMITED TO ONLY COLOMBIA. Sonatafy Technology , headquartered in Scottsdale, Arizona, is an award-winning nearshore software development company with a strong reputation. They have a dedicated in-house team of engineers, offering end-to-end software solutions and supporting client development staff augmentation. Catering to companies of all sizes and industries, including some of the world's largest brands, Sonatafy Technology is a trusted provider of nearshore enterprise-level cloud and mobile application software development serv",
+   "tags": [
+    "manual+auto",
+    "офис Грузия/Казахстан"
+   ],
+   "id": "ac0f20f57814",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Lifted (an Upwork Company)",
+   "title": "Basque Speaker Recording Quality Assurance",
+   "location": "Spain",
+   "remote": true,
+   "url": "https://himalayas.app/companies/lifted-an-upwork-company/jobs/basque-speaker-recording-quality-assurance?utm_source=api",
+   "posted": "2026-10-30T01:32:31+00:00",
+   "description": "Listen carefully to each audio recording and compare it against the corresponding prompt text. Identify subtle differences between the spoken audio and written text. Correct minor text errors, including missing or added words. Identify and correct mispronunciations where applicable. Adjust punctuation to accurately reflect pauses, questions, and other aspects of the spoken delivery. Apply the appropriate issue tag when the recording contains a significant mismatch or quality problem. Distinguish between minor text corrections and issues that require a defined quality tag. Follow project guidel",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "5ea0d33fe3ef",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "SwingDev",
+   "title": "Senior QA Engineer",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/swingdev/jobs/senior-qa-engineer?utm_source=api",
+   "posted": "2026-10-29T19:47:42+00:00",
+   "description": "SwingDev —a hippo company is the Polish branch of a fast-growing InsurTech product company – Hippo Insurance. We’re here to make home insurance smarter and more proactive, using tech to bring fresh solutions. We also create digital products that support our customers, always focusing on what really makes an impact. Putting a lot of effort into hiring top-tier professionals is a proof that we care a lot about tech experience, the attitude, human approach, and what we could call „culture fit”. „ SwingDev is all about people” - yes, it may sound a bit cliche. But whether we're writing code or jus",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "bc49ee8f7832",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Storyblok",
+   "title": "Senior QA Engineer - Europe (m/w/d)",
+   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+   "remote": true,
+   "url": "https://himalayas.app/companies/storyblok/jobs/senior-qa-engineer-europe-m-w-d-765379171?utm_source=api",
+   "posted": "2026-10-29T17:31:22+00:00",
+   "description": "Storyblok is a headless CMS that enables marketers and developers to create with joy and succeed in the AI-driven content era. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Marketers get a visual editor with reusable components, in-context preview, and workflows to launch fast and stay on brand. Developers have freedom to use their favorite frameworks and integrate with anything through the API-first platform. Brands get one source of truth for content that is accurate, flexible, and measurable. Legendary brands like Virgin Medi",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "b39943dc5692",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "Software Tester/ Junior IT Consultant fluent in German (m/w/d) TST/08/2026",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/software-tester-junior-it-consultant-fluent-in-german-m-w-d-tst-08-2026?utm_source=api",
+   "posted": "2026-10-29T17:03:03+00:00",
+   "description": "Are you a Software Tester/Junior IT Consultant fluent in German? We are currently seeking a talented individual to join our team. You have the option to work from our Thessaloniki or Athens office, or remotely. Tasks Software testing and close collaboration with the client and the development team; Manual software testing of web applications; Creation of test cases; Documentation (e.g. user manual); Support and 3rd-level service desk; Communication with developers and business analysts. Requirements Motivated, analytical, communicative, and result-oriented; Fluency in German (at least C1) mand",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "8a65f0f25327",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "LXT",
+   "title": "French Quality Assurance / Reviewer",
+   "location": "France",
+   "remote": true,
+   "url": "https://himalayas.app/companies/lxt/jobs/french-quality-assurance-reviewer-4597745346?utm_source=api",
+   "posted": "2026-10-24T23:50:25+00:00",
+   "description": "LXT is an emerging leader in AI training data to power intelligent technology for global organizations. In partnership with an international network of contributors, LXT collects and annotates data across multiple modalities with the speed, scale and agility required by the enterprise. Our global expertise spans over 145 countries and coverage for more than 1000 language locales. Founded in 2010, LXT is headquartered in Toronto, Canada with presence in the United States, UK, Egypt, Turkey and Australia. The company serves customers in North America, Europe, Asia Pacific and the Middle East. Le",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "b5d28edf8e65",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "InvestEngine",
+   "title": "Middle Manual QA Engineer, Growth team",
+   "location": "United Kingdom",
+   "remote": true,
+   "url": "https://himalayas.app/companies/investengine/jobs/middle-manual-qa-engineer-growth-team?utm_source=api",
+   "posted": "2026-10-23T22:55:54+00:00",
+   "description": "About InvestEngine We’re a London-based fintech on a mission to make ETF investing simple and accessible. Over 150,000 clients have trusted us with over £3.5 billion in assets — and we’re just getting started. We’ve been featured by Forbes, MoneyWeek, and Finder, and we’re growing fast with big ambitions. About the Role We’re looking for a Middle QA Engineer to join our high-velocity Growth team — own quality across the whole customer journey, from landing page and registration through onboarding to analytics, at a high task flow.You’ll work with strict protocols, regulations, and third-party ",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "d93b540c8418",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "swan.io",
+   "title": "CDD/Freelance QA Engineer",
+   "location": "France",
+   "remote": true,
+   "url": "https://himalayas.app/companies/swan-io/jobs/cdd-freelance-qa-engineer?utm_source=api",
+   "posted": "2026-10-22T23:30:26+00:00",
+   "description": "About Swan is the leading European fintech specialized in embedded banking. A laureate of the French government’s selective year list of tech champions, “French Tech Next 120,” we are quickly expanding across Europe. Over 100 European companies have already seamlessly integrated banking services such as accounts, cards, and payments into their products through our Banking-as-a-Service platform. This approach, known as “embedded finance”, empowers businesses to elevate their offerings and create new revenue streams — often times tripling their revenue! Our founders’ vision from the beginning wa",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "d675af6e959e",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Tester Work",
+   "title": "QA Testers wanted in UK",
+   "location": "United Kingdom",
+   "remote": true,
+   "url": "https://himalayas.app/companies/tester-work/jobs/qa-testers-wanted-in-uk?utm_source=api",
+   "posted": "2026-10-20T16:58:09+00:00",
+   "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech-enthusiasts in UK! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions: Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided; Functional Exploratory Test Cases: Explore the applicati",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "6a94471d7988",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "InvestEngine",
+   "title": "Middle Manual QA Engineer, Pensions team",
+   "location": "United Kingdom",
+   "remote": true,
+   "url": "https://himalayas.app/companies/investengine/jobs/middle-manual-qa-engineer-pensions-team?utm_source=api",
+   "posted": "2026-10-20T13:44:37+00:00",
+   "description": "About InvestEngine We’re a London-based fintech on a mission to make ETF investing simple and accessible. Over 150,000 clients have trusted us with over £3.5 billion in assets — and we’re just getting started. We’ve been featured by Forbes, MoneyWeek, and Finder, and we’re growing fast with big ambitions. About the Role We’re looking for a Middle QA Engineer to join our high-velocity Growth team — own quality across the whole customer journey, from landing page and registration through onboarding to analytics, at a high task flow.You’ll work with strict protocols, regulations, and third-party ",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "0ff7e6a32359",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Freedom24",
+   "title": "Fullstack QA Engineer",
+   "location": "Armenia, Georgia, Montenegro, Serbia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/freedom24/jobs/fullstack-qa-engineer?utm_source=api",
+   "posted": "2026-10-17T17:48:45+00:00",
+   "description": "We are looking for an experienced Fullstack QA Engineer with a background in fintech, banking or other finance-related products to join our banking QA team. We build mobile banking apps on shared backend APIs. You will test both mobile apps and backend services by hand and help us build test automation for APIs and mobile apps. Our products move real money - cards, transfers, payments - so quality here matters. What You Will Do Test new features and run regression for iOS and Android apps; Test backend APIs and integrations: requests, responses, logs; Design and maintain test cases and checkli",
+   "tags": [
+    "manual в описании",
+    "remote СНГ"
+   ],
+   "id": "fea6ff3d2d75",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Freedom24",
+   "title": "QA Engineer (Manual QA experience required)",
+   "location": "Estonia, Montenegro, Serbia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/freedom24/jobs/qa-engineer-manual-qa-experience-required?utm_source=api",
+   "posted": "2026-10-17T14:42:28+00:00",
+   "description": "FREEDOM FINANCE TECHNOLOGIES is a Cyprus-based fintech company and part of the international financial holding Freedom Finance. We develop and maintain trading and banking IT products, as well as the holding’s IT infrastructure worldwide. Our team currently consists of 170 professionals. Over the past three years, we have grown fourfold and continue to actively expand our team. Since 2009, we have been developing our core product - a trading system for brokerage operations in the stock market. More than 700,000 users across 41 countries use our applications. We are expanding our IT Infrastruct",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "7a3691170a41",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (Portugal)",
+   "location": "Portugal",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-portugal-8014762977?utm_source=api",
+   "posted": "2026-10-14T16:52:21+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "0ea81387b171",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (Poland)",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-poland-2909831712?utm_source=api",
+   "posted": "2026-10-13T16:52:33+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "1ed9ff3148c1",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (UK)",
+   "location": "United Kingdom",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-uk-9601194890?utm_source=api",
+   "posted": "2026-10-13T16:52:32+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "94530b80c3d1",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Flosum",
+   "title": "Manual QA Engineer (Serbia)",
+   "location": "Serbia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/flosum/jobs/manual-qa-engineer-serbia-8561406464?utm_source=api",
+   "posted": "2026-10-13T16:52:32+00:00",
+   "description": "What you'll do Test new features and verify bug fixes. Perform functional, regression, smoke, and exploratory testing. Create and maintain test cases, checklists, and other QA documentation. Analyze requirements and prepare test scenarios before development is completed. Test REST APIs using Swagger or Postman. Verify data using SQL. Reproduce reported issues and work with developers to investigate root causes. Participate in refinement sessions, and release testing. Help improve our testing processes and increase overall test coverage. Requirements What we're looking for 2+ years of experienc",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "38b56d448bb6",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "ACCELERATED",
+   "title": "QA Specialist / QA Engineer - Freelanceship - 100% remote",
+   "location": "Germany",
+   "remote": true,
+   "url": "https://himalayas.app/companies/accelerated/jobs/qa-specialist-qa-engineer-freelanceship-100-remote?utm_source=api",
+   "posted": "2026-10-08T17:01:59+00:00",
+   "description": "You have a great eye for detail? Breaking stuff and finding bugs is your biggest source of joy? How about joining our amazing team of ~40 people from all over the world? We offer you the possibility to work 100% remotely, surrounded by an exciting team & culture! Working with the best - for the best - facing challenges and creating a real impact. Tasks What's your daily life going to look like - your tasks: Execute test cases for AB tests and Landing Pages across various platforms, including web and mobile applications, to validate functionality and performance. Identify, record, and track def",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "02af12e02f48",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "Software Tester/ Junior IT Consultant fluent in German (m/w/d) TST/10/2026",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/software-tester-junior-it-consultant-fluent-in-german-m-w-d-tst-10-2026?utm_source=api",
+   "posted": "2026-10-08T10:05:18+00:00",
+   "description": "Are you a Software Tester/Junior IT Consultant fluent in German? We are currently seeking a talented individual to join our team. You have the option to work from our Thessaloniki or Athens office, or remotely. Tasks Software testing and close collaboration with the client and the development team; Manual software testing of web applications; Creation of test cases; Documentation (e.g. user manual); Support and 3rd-level service desk; Communication with developers and business analysts. Requirements Motivated, analytical, communicative, and result-oriented; Fluency in German (at least C1) mand",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "db53482372b2",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Bikeleasing-Service",
+   "title": "Senior QA Engineer (gn)",
+   "location": "Germany",
+   "remote": true,
+   "url": "https://himalayas.app/companies/bikeleasing-service/jobs/senior-qa-engineer-gn?utm_source=api",
+   "posted": "2026-10-08T01:59:20+00:00",
+   "description": "deine aufgaben Die Bikeleasing-Gruppe hat sich zu einer führenden Unternehmensgruppe für Arbeitgeber-Benefits und Mobilitätslösungen entwickelt. Sie umfasst fünf spezialisierte Unternehmen, darunter Multi-Benefit-Anbieter, Leasing- und Versicherungsdienstleister sowie Händler für refurbished Bikes. Mit unserem anhaltenden profitablen Wachstum und unserer Expansion befinden wir uns auf einer spannenden technischen Transformationsreise. Dafür suchen wir Dich als Senior QA Engineer (gn) der/die unser Technologie-Ökosystem aktiv mitgestaltet und vorantreibt. Wir arbeiten nach Clean Code & Architec",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "80e5b90f434a",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "CoverGo",
+   "title": "Senior Software QA Engineer (Manual Testing)",
+   "location": "Azerbaijan",
+   "remote": true,
+   "url": "https://himalayas.app/companies/covergo/jobs/senior-software-qa-engineer-manual-testing-2271459071?utm_source=api",
+   "posted": "2026-10-07T23:38:19+00:00",
+   "description": "Top 3 Reasons To Join Us 100% Remote International Environment Working on the latest tech for the Insurtech Market Leader About Us At CoverGo , our mission is to empower all insurance companies to make insurance 100% digital and accessible to everyone. We are a leading global no-code insurance platform for health, life, and P&C We’re the winner of the Insurtech of the Year in all of Asia and other awards globally We work with insurance enterprise clients such as AXA, Bupa, MSIG, Dai-ichi, Bank of China Group Insurance, and many more We're an international, diverse team of over 120 people with ",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "8c37ce364361",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "Junior Business Analyst/Software Tester fluent in French",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/junior-business-analyst-software-tester-fluent-in-french-9199113332?utm_source=api",
+   "posted": "2026-10-05T16:47:32+00:00",
+   "description": "Are you fluent in French and passionate about driving software projects to success? We’re seeking a skilled Business Analyst / Software Tester to join our team in Athens or work remotely. In this role, you'll play a pivotal role in software implementation and maintenance projects, collaborating closely with both our internal teams and our valued clients. What You'll Do: You will be involved in the whole life cycle of projects from a business perspective and collaborate closely with the client and the development teams. More analytically you will be engaged in: Performing requirements analysis;",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "a2f340c7b04d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "EUROPEAN DYNAMICS",
+   "title": "Business Analyst/Software Tester fluent in French",
+   "location": "Greece",
+   "remote": true,
+   "url": "https://himalayas.app/companies/european-dynamics/jobs/business-analyst-software-tester-fluent-in-french?utm_source=api",
+   "posted": "2026-10-05T16:47:32+00:00",
+   "description": "Are you fluent in French and passionate about driving software projects to success? We’re seeking a skilled Business Analyst / Software Tester to join our team in Athens or work remotely. In this role, you'll play a pivotal role in software implementation and maintenance projects, collaborating closely with both our internal teams and our valued clients. What You'll Do: You will be involved in the whole life cycle of projects from a business perspective and collaborate closely with the client and the development teams. More analytically you will be engaged in: Performing requirements analysis;",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "e4c2e1cdd98f",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "It's Prodigy",
+   "title": "Software Tester - QA",
+   "location": "Italy",
+   "remote": true,
+   "url": "https://himalayas.app/companies/it-s-prodigy/jobs/software-tester-qa?utm_source=api",
+   "posted": "2026-10-05T13:20:35+00:00",
+   "description": "It's Prodigy è una startup innovativa, operante nel campo dell'innovazione tecnologica, che si pone l'obiettivo di creare soluzioni e prodotti di nuova generazione per piccole, medie e grandi imprese. Di cosa ci occupiamo? 💡 Innovazione: ci proponiamo come consulenti e sviluppatori di soluzioni in ambito industria 4.0 (Big data, intelligenza artificiale, iot...); 📈 Consulenza Tecnologica: ci occupiamo sia di consulenza in modalità outsourcing che di sviluppo custom di progetti; 👩🏻‍💻Marketing: operiamo in ambito pubblica amministrazione e corporate, offrendo servizi di digital marketing, social",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "4d3423243299",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Trust Payments",
+   "title": "Lead QA Engineer (Bangor / All UK)",
+   "location": "United Kingdom",
+   "remote": true,
+   "url": "https://himalayas.app/companies/trust-payments/jobs/lead-qa-engineer-bangor-all-uk?utm_source=api",
+   "posted": "2026-10-02T17:04:55+00:00",
+   "description": "Company Description: Trust Payments is an MFSA-regulated in Malta; and an FCA-regulated company in the UK. We provide a range of payments and commerce solutions, with market-leading technology and data insights. We offer innovative payment methods and cutting-edge technologies, with a truly global presence. Our global offices cater to the most demanding business sectors, including retail, travel, hospitality, forex, and financial services. Driving value for our clients and demonstrating genuine care for their success, is a core value of ours. We also believe in striving to build a better, more",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "1a0a165c2270",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "TELUS Digital",
+   "title": "Quality Assurance Rater - French (France)",
+   "location": "France",
+   "remote": true,
+   "url": "https://himalayas.app/companies/telus-digital/jobs/quality-assurance-rater-french-france-1113481089?utm_source=api",
+   "posted": "2026-09-24T01:31:11+00:00",
+   "description": "Join our elite team of Senior Raters as a critical contributor to high-quality validation data that directly influences product development and quality assurance for leading search engines and AI technologies. This flexible, remote opportunity allows you to apply your analytical and research skills to evaluate search results and AI-generated content while contributing to the development of high-quality AI systems. Tasks A Day in the Life of a Quality Assurance Rater In this role, you'll conduct analytical assessments of search results and AI responses, providing ratings and feedback that help ",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "aa91bb22e004",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Business Changers",
+   "title": "Software Tester",
+   "location": "Italy",
+   "remote": true,
+   "url": "https://himalayas.app/companies/business-changers/jobs/software-tester-6726643295?utm_source=api",
+   "posted": "2026-09-22T22:51:32+00:00",
+   "description": "Siamo alla ricerca di una figura di Software Tester da inserire all'interno della nostra struttura. Le principali mansioni sono: Collaborare con il team di sviluppo per comprendere i requisiti del software . Pianificare, progettare e eseguire test manuali ed automatizzat i. Identificare e documentare difetti, anomalie e problemi di qualità . Partecipare alla definizione e all'implementazione di procedure di test. Definire ed aggiornare i casi di test . Collaborare alla risoluzione dei problemi di qualità con il team di sviluppo. Contribuire al miglioramento continuo dei processi di testing. La",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "84f46e52c30f",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Business Changers",
+   "title": "Software Tester riservato a L. 68/99 art. 1",
+   "location": "Italy",
+   "remote": true,
+   "url": "https://himalayas.app/companies/business-changers/jobs/software-tester-riservato-a-l-68-99-art-1?utm_source=api",
+   "posted": "2026-09-22T10:51:49+00:00",
+   "description": "Siamo alla ricerca di una figura di Software Tester appartenente alla categoria disabili L. 68/99 art. 1 da inserire all'interno della nostra struttura. Le principali mansioni sono: Collaborare con il team di sviluppo per comprendere i requisiti del software . Pianificare, progettare e eseguire test manuali ed automatizzat i. Identificare e documentare difetti, anomalie e problemi di qualità . Partecipare alla definizione e all'implementazione di procedure di test. Definire ed aggiornare i casi di test . Collaborare alla risoluzione dei problemi di qualità con il team di sviluppo. Contribuire ",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "b69e6074024f",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "intent",
+   "title": "Senior QA Engineer (freelance)",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/intent/jobs/senior-qa-engineer-freelance?utm_source=api",
+   "posted": "2026-09-21T11:45:06+00:00",
+   "description": "In short If you're a Senior QA Engineer who's tested apps that talk to physical devices, and you know that \"reproduce on my phone\" doesn't end the conversation, we want to talk. You'd join us on a freelance, time & material basis : you're paid for the hours you actually work on real client projects. The first three months are about figuring out if we're a good match. When things work out, and that depends on the work itself, the project pipeline, and business timing, there's a real path to our core team with a permanent contract and full benefits. Why intent ? We've been designing and co-creat",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "33154f452023",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Sopra Steria",
+   "title": "DevOps: Agile Software Tester",
+   "location": "Netherlands",
+   "remote": true,
+   "url": "https://himalayas.app/companies/sopra-steria/jobs/devops-agile-software-tester?utm_source=api",
+   "posted": "2026-09-20T08:45:48+00:00",
+   "description": "When you’re one of Sopra Steria 's Agile Software Testers, you are the bridge between technology and business which makes you one of the most important members of the DevOps team. You ensure quality and also guarantee the connection to the customer. Whether it be connecting a new application or a feature over another product, nothing is out of the ordinary You like to have discussions with fellow testers and the customer based on your own vision for the field of testing. You have a fair amount of experience and recognize new opportunities and areas for improvement with ease. You have a passion",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "61f9b6187c03",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
+  },
   {
    "source": "Greenhouse",
    "company": "N-iX",
@@ -180,7 +1094,7 @@
    ],
    "id": "8bf28dae485b",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -197,7 +1111,7 @@
    ],
    "id": "f5c81094b450",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -214,7 +1128,7 @@
    ],
    "id": "ab615fbd4ecf",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -231,7 +1145,7 @@
    ],
    "id": "b74135976d58",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -248,7 +1162,7 @@
    ],
    "id": "e9054e21ffd6",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -265,7 +1179,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -282,7 +1196,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -299,7 +1213,7 @@
    ],
    "id": "501105ac71d1",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -316,7 +1230,7 @@
    ],
    "id": "1acf47fb8c76",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -333,7 +1247,7 @@
    ],
    "id": "70119da2419a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -350,7 +1264,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -367,7 +1281,7 @@
    ],
    "id": "bdf98e8e2684",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -435,7 +1349,7 @@
    ],
    "id": "95b441e743f1",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -453,8 +1367,8 @@
    ],
    "id": "7826d5357178",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:38:18+00:00",
-   "active": false
+   "last_seen": "2026-11-18T17:48:52+00:00",
+   "active": true
   },
   {
    "source": "Ashby",
@@ -471,7 +1385,7 @@
    ],
    "id": "40d71ad64f07",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -489,7 +1403,7 @@
    ],
    "id": "a5cb4a6d8415",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -506,7 +1420,7 @@
    ],
    "id": "7cdad2ee3b08",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -523,7 +1437,7 @@
    ],
    "id": "cde6c875723a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -540,7 +1454,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -557,7 +1471,7 @@
    ],
    "id": "92880e757acd",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -574,7 +1488,7 @@
    ],
    "id": "4c0aba88b262",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -592,7 +1506,7 @@
    ],
    "id": "e30ca44c4f71",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
@@ -609,7 +1523,7 @@
    ],
    "id": "0d109e1be412",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T17:43:26+00:00",
+   "last_seen": "2026-11-18T17:48:52+00:00",
    "active": true
   },
   {
