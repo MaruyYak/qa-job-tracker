@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manual QA вакансии</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#1d2129;--muted:#6b7280;--line:#e5e7eb;--accent:#2563eb;--accent-bg:#e8efff;--good:#15803d;--good-bg:#e7f6ec;--warn:#b45309;--warn-bg:#fdf3e2;--chip:#eef0f3}
+@media (prefers-color-scheme:dark){:root{--bg:#111318;--card:#1a1d24;--text:#e6e8ec;--muted:#9aa1ad;--line:#2a2f39;--accent:#7aa2ff;--accent-bg:#1e2a45;--good:#5fd28b;--good-bg:#173323;--warn:#f0b35c;--warn-bg:#3a2a12;--chip:#252a33}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:15px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+header{padding:20px 16px 8px;max-width:1000px;margin:0 auto}
+h1{font-size:22px;margin:0 0 4px}
+.sub{color:var(--muted);font-size:13px}
+.bar{position:sticky;top:0;z-index:2;background:var(--bg);border-bottom:1px solid var(--line)}
+.controls{max-width:1000px;margin:0 auto;padding:10px 16px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+input[type=search]{flex:1 1 220px;min-width:0;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text);font:inherit}
+select{padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--text);font:inherit}
+.chips{display:flex;flex-wrap:wrap;gap:6px;width:100%}
+.chip{border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:999px;padding:4px 10px;font-size:13px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent-bg);border-color:var(--accent);color:var(--accent)}
+main{max-width:1000px;margin:0 auto;padding:12px 16px 40px}
+.count{color:var(--muted);font-size:13px;margin:4px 0 10px}
+.job{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.job.hidden-st{opacity:.5}
+.top{display:flex;gap:8px;align-items:flex-start;justify-content:space-between}
+.title{font-weight:600;font-size:16px;color:var(--text);text-decoration:none}
+.title:hover{color:var(--accent)}
+.new{background:var(--good-bg);color:var(--good);font-size:11px;font-weight:700;border-radius:4px;padding:1px 6px;margin-left:6px;vertical-align:2px}
+.closed{background:var(--chip);color:var(--muted);font-size:11px;border-radius:4px;padding:1px 6px;margin-left:6px}
+.meta{color:var(--muted);font-size:13px;margin-top:2px;overflow-wrap:anywhere}
+.tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.tag{background:var(--chip);border-radius:4px;padding:1px 6px;font-size:12px}
+.tag.reloc{background:var(--warn-bg);color:var(--warn)}
+.tag.manual{background:var(--good-bg);color:var(--good)}
+.desc{color:var(--muted);font-size:13px;margin-top:6px;display:none}
+.job.open .desc{display:block}
+.actions{display:flex;gap:4px;flex-shrink:0}
+.st{border:1px solid var(--line);background:var(--card);color:var(--muted);border-radius:6px;padding:3px 7px;font-size:12px;cursor:pointer}
+.st[aria-pressed=true]{color:var(--accent);border-color:var(--accent);background:var(--accent-bg)}
+.more{background:none;border:0;color:var(--accent);font-size:12px;cursor:pointer;padding:0;margin-top:4px}
+.empty{color:var(--muted);text-align:center;padding:40px 0}
+details.links{margin-top:18px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+details.links a{color:var(--accent)}
+@media (max-width:600px){.bar{position:static}.top{flex-direction:column}.actions{margin-top:6px}}
+</style>
+</head>
+<body>
+<header>
+  <h1>Manual QA вакансии</h1>
+  <div class="sub" id="updated">Загрузка…</div>
+</header>
+<div class="bar"><div class="controls">
+  <input type="search" id="q" placeholder="Поиск: компания, название, город">
+  <select id="status">
+    <option value="active">Без скрытых</option>
+    <option value="new">Только непросмотренные</option>
+    <option value="interesting">Интересно</option>
+    <option value="applied">Откликнулась</option>
+    <option value="hidden">Скрытые</option>
+    <option value="all">Все</option>
+  </select>
+  <select id="age">
+    <option value="7">За 7 дней</option>
+    <option value="14">За 14 дней</option>
+    <option value="30" selected>За 30 дней</option>
+    <option value="9999">За всё время</option>
+  </select>
+  <div class="chips" id="chips"></div>
+</div></div>
+<main>
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+  <details class="links">
+    <summary>LinkedIn и другие сайты, которые нельзя собирать автоматически</summary>
+    <p>Готовые поиски, откройте и включите «Job alert» в LinkedIn, чтобы получать письма:</p>
+    <ul>
+      <li><a target="_blank" rel="noopener" href="https://www.linkedin.com/jobs/search/?keywords=manual%20QA&location=European%20Union&f_WT=2&f_TPR=r604800">LinkedIn: Manual QA, удалённо, Евросоюз, за неделю</a></li>
+      <li><a target="_blank" rel="noopener" href="https://www.linkedin.com/jobs/search/?keywords=QA%20engineer%20manual&location=Georgia&f_TPR=r604800">LinkedIn: QA, Грузия, за неделю</a></li>
+      <li><a target="_blank" rel="noopener" href="https://www.linkedin.com/jobs/search/?keywords=QA%20engineer%20manual&location=Kazakhstan&f_TPR=r604800">LinkedIn: QA, Казахстан, за неделю</a></li>
+      <li><a target="_blank" rel="noopener" href="https://www.linkedin.com/jobs/search/?keywords=manual%20QA%20relocation&location=Europe&f_TPR=r604800">LinkedIn: Manual QA + relocation, Европа</a></li>
+      <li><a target="_blank" rel="noopener" href="https://relocate.me/search?query=QA">Relocate.me: QA с релокацией</a></li>
+      <li><a target="_blank" rel="noopener" href="https://djinni.co/jobs/?primary_keyword=QA&exp_level=&employment=remote">Djinni: QA, удалённо</a></li>
+      <li><a target="_blank" rel="noopener" href="https://hh.kz/search/vacancy?text=manual+QA&schedule=remote">hh.kz: Manual QA, удалённо</a></li>
+      <li><a target="_blank" rel="noopener" href="https://hh.ge/search/vacancy?text=QA">hh.ge: QA</a></li>
+    </ul>
+  </details>
+</main>
+<script>
+const LS = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; } catch { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+let statuses = LS.get("qa_status", {});    // id -> interesting | applied | hidden
+let seen = LS.get("qa_seen", {});          // id -> true
+const prevVisit = LS.get("qa_last_visit", null);
+let data = { jobs: [] };
+let activeTags = new Set(LS.get("qa_tags", []));
+const TAG_ORDER = ["remote Европа", "remote СНГ", "remote весь мир", "релокация", "офис Грузия/Казахстан", "manual", "manual в описании", "manual+auto"];
+
+const $ = id => document.getElementById(id);
+const esc = s => (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const daysAgo = iso => (Date.now() - new Date(iso).getTime()) / 864e5;
+function fmtDate(iso) {
+  if (!iso) return "";
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleDateString("ru-RU", { day: "numeric", month: "short" });
+}
+
+function renderChips() {
+  const present = new Set(data.jobs.flatMap(j => j.tags || []));
+  const tags = TAG_ORDER.filter(t => present.has(t));
+  const sources = [...new Set(data.jobs.map(j => j.source.startsWith("Telegram") ? "Telegram" : j.source))].sort();
+  $("chips").innerHTML = tags.map(t => `<button class="chip" data-tag="${esc(t)}" aria-pressed="${activeTags.has(t)}">${esc(t)}</button>`).join("")
+    + sources.map(s => `<button class="chip" data-tag="src:${esc(s)}" aria-pressed="${activeTags.has("src:" + s)}">${esc(s)}</button>`).join("");
+}
+
+function matches(j) {
+  const st = statuses[j.id];
+  const mode = $("status").value;
+  if (mode === "active" && st === "hidden") return false;
+  if (mode === "new" && (seen[j.id] || st)) return false;
+  if (["interesting", "applied", "hidden"].includes(mode) && st !== mode) return false;
+  if (daysAgo(j.first_seen) > +$("age").value) return false;
+  const tagSel = [...activeTags].filter(t => !t.startsWith("src:"));
+  const srcSel = [...activeTags].filter(t => t.startsWith("src:")).map(t => t.slice(4));
+  if (tagSel.length && !tagSel.some(t => (j.tags || []).includes(t))) return false;
+  if (srcSel.length && !srcSel.some(s => j.source === s || (s === "Telegram" && j.source.startsWith("Telegram")))) return false;
+  const q = $("q").value.trim().toLowerCase();
+  if (q && !(j.title + " " + j.company + " " + j.location + " " + j.source).toLowerCase().includes(q)) return false;
+  return true;
+}
+
+function render() {
+  const list = data.jobs.filter(matches);
+  $("count").textContent = `Показано ${list.length} из ${data.jobs.length}`;
+  if (!list.length) { $("list").innerHTML = `<div class="empty">Ничего не найдено по этим фильтрам</div>`; return; }
+  $("list").innerHTML = list.map(j => {
+    const st = statuses[j.id];
+    const isNew = !seen[j.id] && (!prevVisit || j.first_seen > prevVisit);
+    const tags = (j.tags || []).map(t => `<span class="tag ${t === "релокация" ? "reloc" : t.startsWith("manual") ? "manual" : ""}">${esc(t)}</span>`).join("");
+    const btn = (v, label) => `<button class="st" data-id="${j.id}" data-st="${v}" aria-pressed="${st === v}">${label}</button>`;
+    return `<article class="job ${st === "hidden" ? "hidden-st" : ""}" id="j-${j.id}">
+      <div class="top"><div>
+        <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener" data-open="${j.id}">${esc(j.title)}</a>${isNew ? '<span class="new">NEW</span>' : ""}${j.active === false ? '<span class="closed">возможно закрыта</span>' : ""}
+        <div class="meta">${esc(j.company || "—")} · ${esc((j.location || "").slice(0, 140))}</div>
+        <div class="meta">${esc(j.source)} · найдено ${fmtDate(j.first_seen)}${j.posted ? " · опубликовано " + fmtDate(j.posted) : ""}</div>
+      </div>
+      <div class="actions">${btn("interesting", "★ Интересно")}${btn("applied", "✓ Отклик")}${btn("hidden", "✕ Скрыть")}</div></div>
+      <div class="tags">${tags}</div>
+      ${j.description ? `<button class="more" data-more="${j.id}">Описание</button><div class="desc">${esc(j.description)}…</div>` : ""}
+    </article>`;
+  }).join("");
+}
+
+document.addEventListener("click", e => {
+  const t = e.target;
+  if (t.dataset.tag) { activeTags.has(t.dataset.tag) ? activeTags.delete(t.dataset.tag) : activeTags.add(t.dataset.tag); LS.set("qa_tags", [...activeTags]); renderChips(); render(); }
+  else if (t.dataset.st) { const { id, st } = t.dataset; statuses[id] === st ? delete statuses[id] : statuses[id] = st; LS.set("qa_status", statuses); render(); }
+  else if (t.dataset.more) { $("j-" + t.dataset.more).classList.toggle("open"); }
+  else if (t.dataset.open) { seen[t.dataset.open] = true; LS.set("qa_seen", seen); }
+});
+["q", "status", "age"].forEach(id => $(id).addEventListener("input", render));
+
+fetch("jobs.json", { cache: "no-store" }).then(r => r.json()).then(d => {
+  data = d;
+  const ok = Object.entries(d.sources || {}).filter(([, n]) => n > 0).length;
+  $("updated").textContent = `Обновлено ${new Date(d.updated).toLocaleString("ru-RU")} · ${d.count} вакансий · источников с данными: ${ok}`;
+  renderChips(); render();
+  LS.set("qa_last_visit", d.updated);
+}).catch(() => { $("updated").textContent = "Не удалось загрузить jobs.json"; });
+</script>
+</body>
+</html>
