@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-18T18:01:24+00:00",
- "count": 61,
+ "updated": "2026-11-19T14:15:01+00:00",
+ "count": 63,
  "sources": {
   "ashby:airwallex": 6,
   "ashby:ajax": 0,
@@ -62,7 +62,7 @@
   "greenhouse:adyen": 1,
   "greenhouse:airtable": 0,
   "greenhouse:algolia": 0,
-  "greenhouse:betsson": 4,
+  "greenhouse:betsson": 3,
   "greenhouse:bird": 0,
   "greenhouse:bitpanda": 0,
   "greenhouse:brex": 0,
@@ -89,7 +89,7 @@
   "greenhouse:gusto": 0,
   "greenhouse:hellofresh": 29,
   "greenhouse:intercom": 0,
-  "greenhouse:jetbrains": 1,
+  "greenhouse:jetbrains": 0,
   "greenhouse:lokalise": 0,
   "greenhouse:make": 0,
   "greenhouse:mirakl": 0,
@@ -112,7 +112,7 @@
   "greenhouse:smartling": 0,
   "greenhouse:solarisbank": 1,
   "greenhouse:staffbase": 0,
-  "greenhouse:stripe": 2,
+  "greenhouse:stripe": 1,
   "greenhouse:sumup": 1,
   "greenhouse:tamara": 1,
   "greenhouse:testlio": 13,
@@ -145,7 +145,7 @@
   "smartrecruiters:cdprojektred": 10,
   "smartrecruiters:cleverbridge": 0,
   "smartrecruiters:deliveryhero": 3,
-  "smartrecruiters:endava": 4,
+  "smartrecruiters:endava": 5,
   "smartrecruiters:entain": 0,
   "smartrecruiters:evolution": 4,
   "smartrecruiters:gameloft": 1,
@@ -159,12 +159,47 @@
   "arbeitnow": 1500,
   "remotive": 16,
   "remoteok": 97,
-  "himalayas": 227,
-  "jobicy": 104,
-  "weworkremotely": 97,
-  "telegram": 30
+  "himalayas": 226,
+  "jobicy": 96,
+  "weworkremotely": 94,
+  "telegram": 31
  },
  "jobs": [
+  {
+   "source": "Arbeitnow",
+   "company": "Global App Testing",
+   "title": "QA Testers Needed",
+   "location": "Zürich",
+   "remote": true,
+   "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
+   "posted": "2026-11-19T12:17:38+00:00",
+   "description": "Global App Testing Global App Testing provides on-demand crowdtesting by combining automation and intelligent crowdsourcing with over 60,000 professional testers across 150+ countries. Leading brands rely on this approach for fast and accurate test results with an impact-first quality focus. What you will do Execute test cases on various applications and platforms. Identify, log, and track bugs and software defects efficiently. Verify fixes and report test results accurately. What the role requires Experience in quality assurance and software testing is essential for this independent contracto",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "6a56ba0d6556",
+   "first_seen": "2026-11-19T14:15:01+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Human Power BG",
+   "title": "QA ENGINEER",
+   "location": "Bulgaria",
+   "remote": true,
+   "url": "https://himalayas.app/companies/human-power-bg/jobs/qa-engineer?utm_source=api",
+   "posted": "2026-11-01T13:11:30+00:00",
+   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. ------ Our client is a financial brokerage company with focus on Forex and CFDs. We are currently looking for well organized, passionate and innovative candidate to join ActivTrades Plc. Sofia Branch as QA Engineer in the Software Development Department. The projects that you will be involved in include modern web applications and backend systems that require execution of various testing types: design and usability testing, responsive design, integration, security and functional",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "3484d03a6d1a",
+   "first_seen": "2026-11-19T14:15:01+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
+   "active": true
+  },
   {
    "source": "Himalayas",
    "company": "Torrero",
@@ -180,7 +215,7 @@
    ],
    "id": "99218e027f57",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -198,7 +233,7 @@
    ],
    "id": "2066fb894318",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -215,7 +250,7 @@
    ],
    "id": "fed2ff1b17c2",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -233,7 +268,7 @@
    ],
    "id": "6dda9534cabe",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -251,7 +286,7 @@
    ],
    "id": "2943f62ccf50",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -269,7 +304,7 @@
    ],
    "id": "c986040e711b",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -287,7 +322,7 @@
    ],
    "id": "d66c8899020d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -305,7 +340,7 @@
    ],
    "id": "8fe0896ee525",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -323,7 +358,7 @@
    ],
    "id": "7c18cf1f037d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -341,7 +376,7 @@
    ],
    "id": "28f730565731",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -358,7 +393,7 @@
    ],
    "id": "0eb78c355a36",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -375,7 +410,7 @@
    ],
    "id": "ab7b2e6ff4a5",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -392,7 +427,7 @@
    ],
    "id": "a831c5e3a207",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -410,7 +445,7 @@
    ],
    "id": "05ba65ff8e38",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -428,7 +463,7 @@
    ],
    "id": "dd46082cfc6e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -446,7 +481,7 @@
    ],
    "id": "fba86c3a5b3d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -464,7 +499,7 @@
    ],
    "id": "036a4ac6b93d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -482,7 +517,7 @@
    ],
    "id": "e894529adcb1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -499,7 +534,7 @@
    ],
    "id": "9bb0d9736e48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -517,7 +552,7 @@
    ],
    "id": "ac0f20f57814",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -534,7 +569,7 @@
    ],
    "id": "5ea0d33fe3ef",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -552,7 +587,7 @@
    ],
    "id": "bc49ee8f7832",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -571,7 +606,7 @@
    "id": "b39943dc5692",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-18T18:01:24+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -587,7 +622,7 @@
    ],
    "id": "b5d28edf8e65",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -605,7 +640,7 @@
    ],
    "id": "d93b540c8418",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -622,7 +657,7 @@
    ],
    "id": "d675af6e959e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -639,7 +674,7 @@
    ],
    "id": "6a94471d7988",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -657,7 +692,7 @@
    ],
    "id": "0ff7e6a32359",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -675,7 +710,7 @@
    ],
    "id": "fea6ff3d2d75",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -693,7 +728,7 @@
    ],
    "id": "7a3691170a41",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -711,7 +746,7 @@
    ],
    "id": "0ea81387b171",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -729,7 +764,7 @@
    ],
    "id": "1ed9ff3148c1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -747,7 +782,7 @@
    ],
    "id": "94530b80c3d1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -765,7 +800,7 @@
    ],
    "id": "38b56d448bb6",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -782,7 +817,7 @@
    ],
    "id": "02af12e02f48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -799,7 +834,7 @@
    ],
    "id": "80e5b90f434a",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -817,7 +852,7 @@
    ],
    "id": "8c37ce364361",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -834,7 +869,7 @@
    ],
    "id": "4d3423243299",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -851,7 +886,7 @@
    ],
    "id": "aa91bb22e004",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -868,7 +903,7 @@
    ],
    "id": "84f46e52c30f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -885,7 +920,7 @@
    ],
    "id": "b69e6074024f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -902,7 +937,7 @@
    ],
    "id": "33154f452023",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -920,24 +955,24 @@
    "id": "61f9b6187c03",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-18T18:01:24+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Greenhouse",
    "company": "N-iX",
-   "title": "Middle QA Engineer",
+   "title": "Middle Manual QA Engineer",
    "location": "European Union, Europe",
    "remote": null,
    "url": "https://careers.n-ix.com/jobs/5039951101?gh_jid=5039951101",
    "posted": "2026-11-18T05:58:59-05:00",
    "description": "We are looking for a Middle QA Engineer to join our team! Our client is a large US-based provider of marketing, packaging, printing, and supply chain services, working with Fortune-level companies and employing tens of thousands of people worldwide. You will own establishing a reliable regression testing approach for an existing enterprise web application that is about to undergo a framework modernization. The role focuses on understanding business workflows, identifying critical functionality, designing comprehensive test scenarios, and ensuring existing system behaviour is preserved througho",
    "tags": [
-    "manual в описании",
+    "manual",
     "remote Европа"
    ],
    "id": "8bf28dae485b",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -954,7 +989,7 @@
    ],
    "id": "f5c81094b450",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -971,7 +1006,7 @@
    ],
    "id": "ab615fbd4ecf",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -988,7 +1023,7 @@
    ],
    "id": "b74135976d58",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1005,7 +1040,7 @@
    ],
    "id": "e9054e21ffd6",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1022,7 +1057,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1039,7 +1074,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1056,7 +1091,7 @@
    ],
    "id": "501105ac71d1",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1073,7 +1108,7 @@
    ],
    "id": "1acf47fb8c76",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1090,7 +1125,7 @@
    ],
    "id": "70119da2419a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1107,7 +1142,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1176,7 +1211,7 @@
    ],
    "id": "40d71ad64f07",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1193,7 +1228,7 @@
    ],
    "id": "7cdad2ee3b08",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1210,7 +1245,7 @@
    ],
    "id": "cde6c875723a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   },
   {
@@ -1227,7 +1262,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-18T18:01:24+00:00",
+   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": true
   }
  ]
