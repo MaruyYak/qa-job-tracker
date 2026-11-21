@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:55:37+00:00",
- "count": 64,
+ "updated": "2026-11-21T13:19:53+00:00",
+ "count": 68,
  "sources": {
   "ashby:airwallex": 6,
   "ashby:ajax": 0,
@@ -42,7 +42,7 @@
   "ashby:playson": 0,
   "ashby:pleo": 0,
   "ashby:posthog": 0,
-  "ashby:preply": 0,
+  "ashby:preply": 1,
   "ashby:qonto": 0,
   "ashby:ramp": 0,
   "ashby:rohlik": 4,
@@ -87,7 +87,7 @@
   "greenhouse:gocardless": 0,
   "greenhouse:grafanalabs": 0,
   "greenhouse:gusto": 0,
-  "greenhouse:hellofresh": 29,
+  "greenhouse:hellofresh": 28,
   "greenhouse:intercom": 0,
   "greenhouse:jetbrains": 0,
   "greenhouse:lokalise": 0,
@@ -102,7 +102,7 @@
   "greenhouse:netlify": 0,
   "greenhouse:nix": 7,
   "greenhouse:nordeus": 0,
-  "greenhouse:okta": 10,
+  "greenhouse:okta": 12,
   "greenhouse:pandadoc": 0,
   "greenhouse:payoneer": 1,
   "greenhouse:raisin": 0,
@@ -113,7 +113,7 @@
   "greenhouse:solarisbank": 1,
   "greenhouse:staffbase": 0,
   "greenhouse:stripe": 1,
-  "greenhouse:sumup": 1,
+  "greenhouse:sumup": 0,
   "greenhouse:tamara": 1,
   "greenhouse:testlio": 13,
   "greenhouse:tomorrow": 0,
@@ -128,7 +128,7 @@
   "greenhouse:wise": 0,
   "greenhouse:wolt": 0,
   "greenhouse:wrike": 0,
-  "lever:ajax": 18,
+  "lever:ajax": 17,
   "lever:blablacar": 0,
   "lever:contentsquare": 0,
   "lever:dreamgames": 0,
@@ -152,19 +152,90 @@
   "smartrecruiters:keywordsstudios": 1,
   "smartrecruiters:omio": 0,
   "smartrecruiters:picnic": 0,
-  "smartrecruiters:playtech": 6,
+  "smartrecruiters:playtech": 5,
   "smartrecruiters:tbcbank": 0,
   "smartrecruiters:wise": 5,
   "smartrecruiters:yassir": 0,
   "arbeitnow": 1500,
-  "remotive": 15,
-  "remoteok": 98,
-  "himalayas": 223,
-  "jobicy": 100,
-  "weworkremotely": 97,
-  "telegram": 32
+  "remotive": 16,
+  "remoteok": 100,
+  "himalayas": 227,
+  "jobicy": 92,
+  "weworkremotely": 98,
+  "telegram": 31
  },
  "jobs": [
+  {
+   "source": "Himalayas",
+   "company": "CommIT",
+   "title": "QA Engineer (Manual and UI Automation-Playwright)",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/commit/jobs/qa-engineer-manual-and-ui-automation-playwright?utm_source=api",
+   "posted": "2026-11-21T07:26:37+00:00",
+   "description": "Description We are looking for a Mid-Level QA Engineer with a strong focus on manual testing and UI automation. You will perform manual testing and validation of our web products and widgets, while also designing, building, and maintaining UI automation using Playwright and pytest. API automation will be a smaller part of the role. What you'll do Perform manual testing and validation of web applications and embeddable widgets. Design, build and maintain UI automation with Playwright (Python) and pytest across our web apps and embeddable widgets. Write API tests with the requests library to set",
+   "tags": [
+    "manual+auto",
+    "remote Европа"
+   ],
+   "id": "4429ebcb1b55",
+   "first_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
+  {
+   "source": "Jobicy",
+   "company": "Welo Global",
+   "title": "Finnish Tech Linguistic Tester",
+   "location": "Anywhere",
+   "remote": true,
+   "url": "https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester",
+   "posted": "2026-11-21T03:05:34+00:00",
+   "description": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welocalize delivers high-quality training data transformation solutions for NLP-enabled machine learning by blending technology and human intelligence to collect, annotate, a",
+   "tags": [
+    "remote весь мир"
+   ],
+   "id": "c89fe67e9b72",
+   "first_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
+  {
+   "source": "Jobicy",
+   "company": "HyperHug",
+   "title": "Senior QA Engineer",
+   "location": "Cyprus",
+   "remote": true,
+   "url": "https://jobicy.com/jobs/163545-senior-qa-engineer-6",
+   "posted": "2026-11-20T14:19:26+00:00",
+   "description": "HyperHug is an international game development studio specializing in the shooter genre. Our main office is based in Cyprus, but our talented team works remotely from around the world. We’re developing Oxide: Survival Island , an immersive multiplayer survival shooter for mobile platforms, and we’re always looking for motivated individuals who want to grow with us, contribute their creativity, and help shape the future of our games. We are looking for Senior QA Engineer to join our team and contribute to the development and evolution of our flagship game, Oxide: Survival Island. In this role, y",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "cff0df4e374b",
+   "first_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
+  {
+   "source": "Ashby",
+   "company": "preply",
+   "title": "Quality Assurance Specialist",
+   "location": "Barcelona",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/preply/7373ba04-c0fa-4ea2-8141-689511ac0a1c",
+   "posted": "2026-11-20T14:01:48.482+00:00",
+   "description": "WE POWER PEOPLE’S PROGRESS. At Preply, we’re all about creating life-changing learning experiences. We help people discover the magic of the perfect tutor, craft a personalised learning journey, and stay motivated to keep growing. Our approach is human-led, tech-enabled - and it’s creating real impact. We’ve just reached unicorn status with a $150M Series D, accelerating our vision to transform education through human-led, AI-enhanced learning. Today, 100,000+ tutors teach 90+ languages to learners in 180 countries - and we’re only getting started. As a category-defining company, we’re shaping",
+   "tags": [
+    "manual в описании",
+    "remote Европа",
+    "релокация"
+   ],
+   "id": "df2592abc45c",
+   "first_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
   {
    "source": "Jobicy",
    "company": "Welo Global",
@@ -179,7 +250,25 @@
    ],
    "id": "422354f74017",
    "first_seen": "2026-11-20T13:55:37+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Human Power BG",
+   "title": "QA ENGINEER",
+   "location": "Bulgaria",
+   "remote": true,
+   "url": "https://himalayas.app/companies/human-power-bg/jobs/qa-engineer?utm_source=api",
+   "posted": "2026-11-20T16:55:25+00:00",
+   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. ------ Our client is a financial brokerage company with focus on Forex and CFDs. We are currently looking for well organized, passionate and innovative candidate to join ActivTrades Plc. Sofia Branch as QA Engineer in the Software Development Department. The projects that you will be involved in include modern web applications and backend systems that require execution of various testing types: design and usability testing, responsive design, integration, security and functional",
+   "tags": [
+    "manual в описании",
+    "remote Европа"
+   ],
+   "id": "3484d03a6d1a",
+   "first_seen": "2026-11-19T14:15:01+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -197,25 +286,60 @@
    "id": "6a56ba0d6556",
    "first_seen": "2026-11-19T14:15:01+00:00",
    "last_seen": "2026-11-20T13:55:37+00:00",
+   "active": false
+  },
+  {
+   "source": "Himalayas",
+   "company": "Human Power BG",
+   "title": "Senior Manual QA",
+   "location": "Bulgaria",
+   "remote": true,
+   "url": "https://himalayas.app/companies/human-power-bg/jobs/senior-manual-qa?utm_source=api",
+   "posted": "2026-11-20T16:55:26+00:00",
+   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. -----﻿﻿ Our client have developed more than 20+ digital tools for HR management, team leadership, organizational development, and corporate culture under the brand. Their goal is to optimize and support the work of leaders and HR professionals worldwide with the help of pragmatic digital solutions and outstanding data-driven advisory assistance. We are looking for a responsible and self-motivated individual to join our team. Role Summary : As a Senior Manual QA Specialist, you w",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "036a4ac6b93d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
    "source": "Himalayas",
    "company": "Human Power BG",
-   "title": "QA ENGINEER",
+   "title": "Manual QA",
    "location": "Bulgaria",
    "remote": true,
-   "url": "https://himalayas.app/companies/human-power-bg/jobs/qa-engineer?utm_source=api",
-   "posted": "2026-11-01T13:11:30+00:00",
-   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. ------ Our client is a financial brokerage company with focus on Forex and CFDs. We are currently looking for well organized, passionate and innovative candidate to join ActivTrades Plc. Sofia Branch as QA Engineer in the Software Development Department. The projects that you will be involved in include modern web applications and backend systems that require execution of various testing types: design and usability testing, responsive design, integration, security and functional",
+   "url": "https://himalayas.app/companies/human-power-bg/jobs/manual-qa?utm_source=api",
+   "posted": "2026-11-20T16:55:22+00:00",
+   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria.﻿﻿ ~~~~~~~~~~﻿ Our client is a leading provider in the new emerging Fintech world. Their Financial Platform as a Service (F-PaaS) enables companies to provide end-to-end financial services that are traditionally otherwise outsourced. F-PaaS empowers organizations to add new revenue channels, increase value to the customer, and improve client retention, from day one. Responsibilities: You will be responsible for manual testing of the tasks in a small to mid-sized team To review an",
    "tags": [
-    "manual в описании",
+    "manual",
     "remote Европа"
    ],
-   "id": "3484d03a6d1a",
-   "first_seen": "2026-11-19T14:15:01+00:00",
-   "last_seen": "2026-11-19T14:15:01+00:00",
-   "active": false
+   "id": "fba86c3a5b3d",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "intent",
+   "title": "Senior QA Engineer (freelance)",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/intent/jobs/senior-qa-engineer-freelance?utm_source=api",
+   "posted": "2026-11-20T16:52:34+00:00",
+   "description": "In short If you're a Senior QA Engineer who's tested apps that talk to physical devices, and you know that \"reproduce on my phone\" doesn't end the conversation, we want to talk. You'd join us on a freelance, time & material basis : you're paid for the hours you actually work on real client projects. The first three months are about figuring out if we're a good match. When things work out, and that depends on the work itself, the project pipeline, and business timing, there's a real path to our core team with a permanent contract and full benefits. Why intent ? We've been designing and co-creat",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "33154f452023",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
   },
   {
    "source": "Himalayas",
@@ -232,7 +356,7 @@
    ],
    "id": "dd46082cfc6e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -249,7 +373,7 @@
    ],
    "id": "02af12e02f48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -267,7 +391,7 @@
    ],
    "id": "94530b80c3d1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -285,7 +409,7 @@
    ],
    "id": "38b56d448bb6",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -303,7 +427,7 @@
    ],
    "id": "0ea81387b171",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -321,7 +445,7 @@
    ],
    "id": "1ed9ff3148c1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -339,7 +463,7 @@
    ],
    "id": "8fe0896ee525",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -357,7 +481,7 @@
    ],
    "id": "c986040e711b",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -375,7 +499,7 @@
    ],
    "id": "d66c8899020d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -392,7 +516,7 @@
    ],
    "id": "6a94471d7988",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -409,7 +533,7 @@
    ],
    "id": "ab7b2e6ff4a5",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -427,7 +551,7 @@
    ],
    "id": "7c18cf1f037d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -444,7 +568,7 @@
    ],
    "id": "fed2ff1b17c2",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -462,7 +586,7 @@
    ],
    "id": "6dda9534cabe",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -479,7 +603,7 @@
    ],
    "id": "61f9b6187c03",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -496,7 +620,7 @@
    ],
    "id": "84f46e52c30f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -514,7 +638,7 @@
    "id": "b69e6074024f",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-20T13:55:37+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -531,7 +655,7 @@
    ],
    "id": "8c37ce364361",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -548,7 +672,7 @@
    ],
    "id": "80e5b90f434a",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -566,7 +690,24 @@
    ],
    "id": "e894529adcb1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Pole To Win International",
+   "title": "LQA Game Tester (Polish) - Freelance Remote",
+   "location": "Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-polish-freelance-remote?utm_source=api",
+   "posted": "2026-11-19T17:24:10+00:00",
+   "description": "About the company Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in Japan in 1994, Side has grown to become a global force in the video games industry, with over 40 studios in 15 countries worldwide and offices across North America, Europe, South America, and Asia. Our industry-leading services include codev, art production, localization, audio production, quality assurance, localization QA, player support, community management, and datasets. For more",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "9bb0d9736e48",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -584,7 +725,7 @@
    ],
    "id": "fea6ff3d2d75",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -602,7 +743,7 @@
    ],
    "id": "7a3691170a41",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -619,7 +760,7 @@
    ],
    "id": "d675af6e959e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -636,7 +777,7 @@
    ],
    "id": "b5d28edf8e65",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -654,7 +795,7 @@
    ],
    "id": "bc49ee8f7832",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -671,7 +812,7 @@
    ],
    "id": "5ea0d33fe3ef",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -689,7 +830,7 @@
    ],
    "id": "28f730565731",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -707,7 +848,7 @@
    ],
    "id": "ac0f20f57814",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -724,7 +865,7 @@
    ],
    "id": "a831c5e3a207",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -741,7 +882,7 @@
    ],
    "id": "0eb78c355a36",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -759,7 +900,7 @@
    ],
    "id": "2943f62ccf50",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -777,7 +918,7 @@
    ],
    "id": "99218e027f57",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -795,7 +936,7 @@
    ],
    "id": "2066fb894318",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -813,61 +954,8 @@
    ],
    "id": "05ba65ff8e38",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "Human Power BG",
-   "title": "Manual QA",
-   "location": "Bulgaria",
-   "remote": true,
-   "url": "https://himalayas.app/companies/human-power-bg/jobs/manual-qa?utm_source=api",
-   "posted": "2026-11-01T13:11:44+00:00",
-   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria.﻿﻿ ~~~~~~~~~~﻿ Our client is a leading provider in the new emerging Fintech world. Their Financial Platform as a Service (F-PaaS) enables companies to provide end-to-end financial services that are traditionally otherwise outsourced. F-PaaS empowers organizations to add new revenue channels, increase value to the customer, and improve client retention, from day one. Responsibilities: You will be responsible for manual testing of the tasks in a small to mid-sized team To review an",
-   "tags": [
-    "manual",
-    "remote Европа"
-   ],
-   "id": "fba86c3a5b3d",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-19T14:15:01+00:00",
-   "active": false
-  },
-  {
-   "source": "Himalayas",
-   "company": "Human Power BG",
-   "title": "Senior Manual QA",
-   "location": "Bulgaria",
-   "remote": true,
-   "url": "https://himalayas.app/companies/human-power-bg/jobs/senior-manual-qa?utm_source=api",
-   "posted": "2026-11-01T13:11:21+00:00",
-   "description": "Human Power BG is an HR agency that offers consultations and recruitment for some of the best companies in Bulgaria. -----﻿﻿ Our client have developed more than 20+ digital tools for HR management, team leadership, organizational development, and corporate culture under the brand. Their goal is to optimize and support the work of leaders and HR professionals worldwide with the help of pragmatic digital solutions and outstanding data-driven advisory assistance. We are looking for a responsible and self-motivated individual to join our team. Role Summary : As a Senior Manual QA Specialist, you w",
-   "tags": [
-    "manual",
-    "remote Европа"
-   ],
-   "id": "036a4ac6b93d",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-19T14:15:01+00:00",
-   "active": false
-  },
-  {
-   "source": "Himalayas",
-   "company": "Pole To Win International",
-   "title": "LQA Game Tester (Polish) - Freelance Remote",
-   "location": "Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland",
-   "remote": true,
-   "url": "https://himalayas.app/companies/pole-to-win-international/jobs/lqa-game-tester-polish-freelance-remote?utm_source=api",
-   "posted": "2026-11-01T12:10:10+00:00",
-   "description": "About the company Side (formerly PTW) is a global video game development and services provider, offering technical and creative solutions to many of the largest developers and studios around the world. Founded in Japan in 1994, Side has grown to become a global force in the video games industry, with over 40 studios in 15 countries worldwide and offices across North America, Europe, South America, and Asia. Our industry-leading services include codev, art production, localization, audio production, quality assurance, localization QA, player support, community management, and datasets. For more",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "9bb0d9736e48",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-19T14:15:01+00:00",
-   "active": false
   },
   {
    "source": "Himalayas",
@@ -902,7 +990,7 @@
    ],
    "id": "d93b540c8418",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -920,7 +1008,7 @@
    ],
    "id": "0ff7e6a32359",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -937,7 +1025,7 @@
    ],
    "id": "4d3423243299",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -955,23 +1043,6 @@
    "id": "aa91bb22e004",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-20T13:55:37+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "intent",
-   "title": "Senior QA Engineer (freelance)",
-   "location": "Poland",
-   "remote": true,
-   "url": "https://himalayas.app/companies/intent/jobs/senior-qa-engineer-freelance?utm_source=api",
-   "posted": "2026-09-21T11:45:06+00:00",
-   "description": "In short If you're a Senior QA Engineer who's tested apps that talk to physical devices, and you know that \"reproduce on my phone\" doesn't end the conversation, we want to talk. You'd join us on a freelance, time & material basis : you're paid for the hours you actually work on real client projects. The first three months are about figuring out if we're a good match. When things work out, and that depends on the work itself, the project pipeline, and business timing, there's a real path to our core team with a permanent contract and full benefits. Why intent ? We've been designing and co-creat",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "33154f452023",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-19T14:15:01+00:00",
    "active": false
   },
   {
@@ -989,7 +1060,7 @@
    ],
    "id": "8bf28dae485b",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1006,7 +1077,7 @@
    ],
    "id": "f5c81094b450",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1023,7 +1094,7 @@
    ],
    "id": "ab615fbd4ecf",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1040,7 +1111,7 @@
    ],
    "id": "b74135976d58",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1057,7 +1128,7 @@
    ],
    "id": "e9054e21ffd6",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1074,7 +1145,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1091,7 +1162,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1108,7 +1179,7 @@
    ],
    "id": "501105ac71d1",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1125,7 +1196,7 @@
    ],
    "id": "1acf47fb8c76",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1142,7 +1213,7 @@
    ],
    "id": "70119da2419a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1159,7 +1230,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1228,7 +1299,7 @@
    ],
    "id": "40d71ad64f07",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1245,7 +1316,7 @@
    ],
    "id": "7cdad2ee3b08",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1262,7 +1333,7 @@
    ],
    "id": "cde6c875723a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   },
   {
@@ -1279,7 +1350,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
+   "last_seen": "2026-11-21T13:19:53+00:00",
    "active": true
   }
  ]
