@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:19:53+00:00",
- "count": 68,
+ "updated": "2026-11-22T13:11:48+00:00",
+ "count": 73,
  "sources": {
   "ashby:airwallex": 6,
   "ashby:ajax": 0,
@@ -160,11 +160,98 @@
   "remotive": 16,
   "remoteok": 100,
   "himalayas": 227,
-  "jobicy": 92,
-  "weworkremotely": 98,
+  "jobicy": 95,
+  "weworkremotely": 100,
   "telegram": 31
  },
  "jobs": [
+  {
+   "source": "Arbeitnow",
+   "company": "SwissPeak Partners GmbH",
+   "title": "Software Test Engineer",
+   "location": "Remote job",
+   "remote": true,
+   "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215",
+   "posted": "2026-11-22T12:31:14+00:00",
+   "description": "Wir rekrutieren einen Software Test Engineer (m/w/d) für ein neu formiertes Team rund um ein Dynamics 365 Projekt. Das Testing wird von Grund auf neu aufgebaut, du bist also massgeblich an der Definition des Vorgehens beteiligt. Du testest im Sprint mit und verantwortest gleichzeitig die Teststrategie, das Testkonzept und die Testplanung. Du koordinierst die UAT mit dem Fachbereich und bringst Qualitätsstandards in ein Team, das seine Testing-Reife gerade aufbaut. Der Fokus liegt überwiegend auf manuellem Testing, mit der Möglichkeit, später in die Automatisierung hineinzuwachsen. Must-have An",
+   "tags": [
+    "remote весь мир"
+   ],
+   "id": "9803ea66dc55",
+   "first_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
+  },
+  {
+   "source": "Jobicy",
+   "company": "Welo Global",
+   "title": "Crux - Video and Audio QA - French (France)",
+   "location": "France",
+   "remote": true,
+   "url": "https://jobicy.com/jobs/163823-crux-video-and-audio-qa-french-france",
+   "posted": "2026-11-22T05:58:55+00:00",
+   "description": "Overview We are hiring Quality Control (QC) evaluators for a project that spans both Search and Linguistic tasks. You will perform quality checks on initial ratings produced by evaluators—validating user intent assessment, query annotation, text classification, and multimedia (video, image, audio) reviews for relevance, accuracy, and guideline adherence. The ideal candidate combines strong language skills with sharp analytical judgment, excellent documentation and feedback skills, and familiarity with short-form video culture What you will do Audit samples of initial ratings for relevance, int",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "f624c07a73bd",
+   "first_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
+  },
+  {
+   "source": "Jobicy",
+   "company": "Welo Global",
+   "title": "Andromeda Delta - Audio Transcription QA Turkish (Turkey)",
+   "location": "Türkiye",
+   "remote": true,
+   "url": "https://jobicy.com/jobs/163820-andromeda-delta-audio-transcription-qa-turkish-turkey",
+   "posted": "2026-11-22T05:58:39+00:00",
+   "description": "About the Role We are looking for experienced Adjudicators/QA to review and resolve discrepancies in word-level transcription and timestamp annotations for a Turkish speech data project. This role requires strong judgment to make final calls on flagged or disputed segments, ensuring quality and consistency across the annotation pipeline. Project Details: Andromeda Delta Engagement Type: Contract / Freelance Rate: USD 7.50/hour Estimated Hours: 20-30 hours/week Key Responsibilities Review annotations flagged by first-pass Annotators for disagreement or ambiguity Listen to audio clips and make f",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "39656eab9d21",
+   "first_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "SuperPlay",
+   "title": "Middle QA Manual Engineer",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/superplay/jobs/middle-qa-manual-engineer?utm_source=api",
+   "posted": "2026-11-22T00:55:13+00:00",
+   "description": "Description Come and join a rapidly expanding mobile games company! Who are we? SuperPlay is a leading gaming company dedicated to creating unforgettable mobile gaming experiences. Founded in 2019 by industry experts from Playtika and Rovio, the company strives to develop innovative and exciting casual games that captivate millions of players worldwide and remain enjoyable for years to come. Dice Dreams, our flagship game, has become a global sensation and a top-100-grossing hit, while Domino Dreams, our next big success, is also making a significant impact in the industry. Our Newest Game – A",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "0fae743fd97f",
+   "first_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "CommIT",
+   "title": "QA Engineer (Manual and UI Automation-Playwright)",
+   "location": "Armenia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/commit/jobs/qa-engineer-manual-and-ui-automation-playwright-5400131710?utm_source=api",
+   "posted": "2026-11-21T14:53:53+00:00",
+   "description": "Description We are looking for a Mid-Level QA Engineer with a strong focus on manual testing and UI automation. You will perform manual testing and validation of our web products and widgets, while also designing, building, and maintaining UI automation using Playwright and pytest. API automation will be a smaller part of the role. What you'll do Perform manual testing and validation of web applications and embeddable widgets. Design, build and maintain UI automation with Playwright (Python) and pytest across our web apps and embeddable widgets. Write API tests with the requests library to set",
+   "tags": [
+    "manual+auto",
+    "remote Европа"
+   ],
+   "id": "f413bc31a2e3",
+   "first_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
+  },
   {
    "source": "Himalayas",
    "company": "CommIT",
@@ -181,7 +268,7 @@
    "id": "4429ebcb1b55",
    "first_seen": "2026-11-21T13:19:53+00:00",
    "last_seen": "2026-11-21T13:19:53+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Jobicy",
@@ -197,7 +284,7 @@
    ],
    "id": "c89fe67e9b72",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -214,7 +301,7 @@
    ],
    "id": "cff0df4e374b",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -233,7 +320,7 @@
    ],
    "id": "df2592abc45c",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -250,7 +337,24 @@
    ],
    "id": "422354f74017",
    "first_seen": "2026-11-20T13:55:37+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
+  },
+  {
+   "source": "Arbeitnow",
+   "company": "Global App Testing",
+   "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
+   "location": "Zürich",
+   "remote": true,
+   "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
+   "posted": "2026-11-20T17:47:36+00:00",
+   "description": "Global App Testing Global App Testing provides on-demand crowdtesting by combining automation and intelligent crowdsourcing with over 60,000 professional testers across 150+ countries. Leading brands rely on this approach for fast and accurate test results with an impact-first quality focus. What you will do Execute test cases on various applications and platforms. Identify, log, and track bugs and software defects efficiently. Verify fixes and report test results accurately. What the role requires Experience in quality assurance and software testing is essential for this independent contracto",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "6a56ba0d6556",
+   "first_seen": "2026-11-19T14:15:01+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -268,25 +372,25 @@
    ],
    "id": "3484d03a6d1a",
    "first_seen": "2026-11-19T14:15:01+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
-   "source": "Arbeitnow",
-   "company": "Global App Testing",
-   "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
-   "location": "Zürich",
+   "source": "Himalayas",
+   "company": "Business Changers",
+   "title": "Software Tester riservato a L. 68/99 art. 1",
+   "location": "Italy",
    "remote": true,
-   "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
-   "posted": "2026-11-19T16:32:33+00:00",
-   "description": "Global App Testing Global App Testing provides on-demand crowdtesting by combining automation and intelligent crowdsourcing with over 60,000 professional testers across 150+ countries. Leading brands rely on this approach for fast and accurate test results with an impact-first quality focus. What you will do Execute test cases on various applications and platforms. Identify, log, and track bugs and software defects efficiently. Verify fixes and report test results accurately. What the role requires Experience in quality assurance and software testing is essential for this independent contracto",
+   "url": "https://himalayas.app/companies/business-changers/jobs/software-tester-riservato-a-l-68-99-art-1?utm_source=api",
+   "posted": "2026-11-21T17:57:41+00:00",
+   "description": "Siamo alla ricerca di una figura di Software Tester appartenente alla categoria disabili L. 68/99 art. 1 da inserire all'interno della nostra struttura. Le principali mansioni sono: Collaborare con il team di sviluppo per comprendere i requisiti del software . Pianificare, progettare e eseguire test manuali ed automatizzat i. Identificare e documentare difetti, anomalie e problemi di qualità . Partecipare alla definizione e all'implementazione di procedure di test. Definire ed aggiornare i casi di test . Collaborare alla risoluzione dei problemi di qualità con il team di sviluppo. Contribuire ",
    "tags": [
     "remote Европа"
    ],
-   "id": "6a56ba0d6556",
-   "first_seen": "2026-11-19T14:15:01+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
-   "active": false
+   "id": "b69e6074024f",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": true
   },
   {
    "source": "Himalayas",
@@ -303,7 +407,7 @@
    ],
    "id": "036a4ac6b93d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -321,7 +425,7 @@
    ],
    "id": "fba86c3a5b3d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -338,7 +442,7 @@
    ],
    "id": "33154f452023",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -356,7 +460,7 @@
    ],
    "id": "dd46082cfc6e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -373,7 +477,7 @@
    ],
    "id": "02af12e02f48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -391,7 +495,7 @@
    ],
    "id": "94530b80c3d1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -409,7 +513,7 @@
    ],
    "id": "38b56d448bb6",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -427,7 +531,7 @@
    ],
    "id": "0ea81387b171",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -445,7 +549,7 @@
    ],
    "id": "1ed9ff3148c1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -463,7 +567,7 @@
    ],
    "id": "8fe0896ee525",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -481,7 +585,7 @@
    ],
    "id": "c986040e711b",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -499,7 +603,7 @@
    ],
    "id": "d66c8899020d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -516,7 +620,7 @@
    ],
    "id": "6a94471d7988",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -533,7 +637,7 @@
    ],
    "id": "ab7b2e6ff4a5",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -551,7 +655,7 @@
    ],
    "id": "7c18cf1f037d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -568,7 +672,7 @@
    ],
    "id": "fed2ff1b17c2",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -586,7 +690,7 @@
    ],
    "id": "6dda9534cabe",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -603,7 +707,7 @@
    ],
    "id": "61f9b6187c03",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -621,23 +725,6 @@
    "id": "84f46e52c30f",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-21T13:19:53+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "Business Changers",
-   "title": "Software Tester riservato a L. 68/99 art. 1",
-   "location": "Italy",
-   "remote": true,
-   "url": "https://himalayas.app/companies/business-changers/jobs/software-tester-riservato-a-l-68-99-art-1?utm_source=api",
-   "posted": "2026-11-19T18:00:09+00:00",
-   "description": "Siamo alla ricerca di una figura di Software Tester appartenente alla categoria disabili L. 68/99 art. 1 da inserire all'interno della nostra struttura. Le principali mansioni sono: Collaborare con il team di sviluppo per comprendere i requisiti del software . Pianificare, progettare e eseguire test manuali ed automatizzat i. Identificare e documentare difetti, anomalie e problemi di qualità . Partecipare alla definizione e all'implementazione di procedure di test. Definire ed aggiornare i casi di test . Collaborare alla risoluzione dei problemi di qualità con il team di sviluppo. Contribuire ",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "b69e6074024f",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-20T13:55:37+00:00",
    "active": false
   },
   {
@@ -655,7 +742,7 @@
    ],
    "id": "8c37ce364361",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -672,7 +759,7 @@
    ],
    "id": "80e5b90f434a",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -690,7 +777,7 @@
    ],
    "id": "e894529adcb1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -707,7 +794,7 @@
    ],
    "id": "9bb0d9736e48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -725,7 +812,7 @@
    ],
    "id": "fea6ff3d2d75",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -743,7 +830,7 @@
    ],
    "id": "7a3691170a41",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -760,7 +847,7 @@
    ],
    "id": "d675af6e959e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -777,7 +864,7 @@
    ],
    "id": "b5d28edf8e65",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -795,7 +882,7 @@
    ],
    "id": "bc49ee8f7832",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -812,7 +899,7 @@
    ],
    "id": "5ea0d33fe3ef",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -830,7 +917,7 @@
    ],
    "id": "28f730565731",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -848,7 +935,7 @@
    ],
    "id": "ac0f20f57814",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -865,7 +952,7 @@
    ],
    "id": "a831c5e3a207",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -882,7 +969,7 @@
    ],
    "id": "0eb78c355a36",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -900,7 +987,7 @@
    ],
    "id": "2943f62ccf50",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -918,7 +1005,7 @@
    ],
    "id": "99218e027f57",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -936,7 +1023,7 @@
    ],
    "id": "2066fb894318",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -954,7 +1041,7 @@
    ],
    "id": "05ba65ff8e38",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -990,7 +1077,7 @@
    ],
    "id": "d93b540c8418",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1008,7 +1095,7 @@
    ],
    "id": "0ff7e6a32359",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1025,7 +1112,7 @@
    ],
    "id": "4d3423243299",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1060,7 +1147,7 @@
    ],
    "id": "8bf28dae485b",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1077,7 +1164,7 @@
    ],
    "id": "f5c81094b450",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1094,7 +1181,7 @@
    ],
    "id": "ab615fbd4ecf",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1111,7 +1198,7 @@
    ],
    "id": "b74135976d58",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1128,7 +1215,7 @@
    ],
    "id": "e9054e21ffd6",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1145,7 +1232,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1162,7 +1249,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1179,7 +1266,7 @@
    ],
    "id": "501105ac71d1",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1197,7 +1284,7 @@
    "id": "1acf47fb8c76",
    "first_seen": "2026-11-18T17:38:18+00:00",
    "last_seen": "2026-11-21T13:19:53+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Arbeitnow",
@@ -1214,7 +1301,7 @@
    "id": "70119da2419a",
    "first_seen": "2026-11-18T17:38:18+00:00",
    "last_seen": "2026-11-21T13:19:53+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "SmartRecruiters",
@@ -1230,7 +1317,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1299,7 +1386,7 @@
    ],
    "id": "40d71ad64f07",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1316,7 +1403,7 @@
    ],
    "id": "7cdad2ee3b08",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1333,7 +1420,7 @@
    ],
    "id": "cde6c875723a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   },
   {
@@ -1350,7 +1437,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
+   "last_seen": "2026-11-22T13:11:48+00:00",
    "active": true
   }
  ]
