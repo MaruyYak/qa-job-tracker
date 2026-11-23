@@ -1,13 +1,13 @@
 {
- "updated": "2026-11-22T13:11:48+00:00",
- "count": 73,
+ "updated": "2026-11-23T15:49:49+00:00",
+ "count": 74,
  "sources": {
-  "ashby:airwallex": 6,
+  "ashby:airwallex": 5,
   "ashby:ajax": 0,
   "ashby:alan": 0,
   "ashby:apify": 0,
   "ashby:babbel": 0,
-  "ashby:backmarket": 0,
+  "ashby:backmarket": 1,
   "ashby:buffer": 0,
   "ashby:clark": 0,
   "ashby:deepl": 0,
@@ -45,7 +45,7 @@
   "ashby:preply": 1,
   "ashby:qonto": 0,
   "ashby:ramp": 0,
-  "ashby:rohlik": 4,
+  "ashby:rohlik": 2,
   "ashby:sentry": 0,
   "ashby:snyk": 0,
   "ashby:sorare": 0,
@@ -56,7 +56,7 @@
   "ashby:truelayer": 0,
   "ashby:uipath": 0,
   "ashby:vanta": 0,
-  "ashby:voodoo": 2,
+  "ashby:voodoo": 1,
   "ashby:zapier": 0,
   "ashby:zenjob": 0,
   "greenhouse:adyen": 1,
@@ -79,7 +79,7 @@
   "greenhouse:dreamgames": 0,
   "greenhouse:elastic": 0,
   "greenhouse:emplifi": 0,
-  "greenhouse:epicgames": 1,
+  "greenhouse:epicgames": 0,
   "greenhouse:fanduel": 3,
   "greenhouse:figma": 1,
   "greenhouse:freenow": 0,
@@ -115,7 +115,7 @@
   "greenhouse:stripe": 1,
   "greenhouse:sumup": 0,
   "greenhouse:tamara": 1,
-  "greenhouse:testlio": 13,
+  "greenhouse:testlio": 15,
   "greenhouse:tomorrow": 0,
   "greenhouse:tripadvisor": 0,
   "greenhouse:trivago": 0,
@@ -139,15 +139,15 @@
   "lever:spotify": 0,
   "lever:swile": 0,
   "lever:toptal": 0,
-  "lever:xsolla": 5,
+  "lever:xsolla": 4,
   "smartrecruiters:bankofgeorgia": 0,
   "smartrecruiters:canva": 0,
-  "smartrecruiters:cdprojektred": 9,
+  "smartrecruiters:cdprojektred": 12,
   "smartrecruiters:cleverbridge": 0,
   "smartrecruiters:deliveryhero": 3,
   "smartrecruiters:endava": 7,
   "smartrecruiters:entain": 0,
-  "smartrecruiters:evolution": 4,
+  "smartrecruiters:evolution": 3,
   "smartrecruiters:gameloft": 1,
   "smartrecruiters:keywordsstudios": 1,
   "smartrecruiters:omio": 0,
@@ -159,12 +159,29 @@
   "arbeitnow": 1500,
   "remotive": 16,
   "remoteok": 100,
-  "himalayas": 227,
-  "jobicy": 95,
+  "himalayas": 226,
+  "jobicy": 9,
   "weworkremotely": 100,
   "telegram": 31
  },
  "jobs": [
+  {
+   "source": "Arbeitnow",
+   "company": "The Exploration Company",
+   "title": "Senior Propulsion Test Engineer",
+   "location": "Bordeaux, France",
+   "remote": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/the-exploration-company/senior-propulsion-test-engineer-bordeaux-162552",
+   "posted": "2026-11-22T15:40:13+00:00",
+   "description": "Here at The Exploration Company, we are building spacecraft for humanity. We are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit, and which carries cargo – and potentially humans in the long run. We are also developing different types of propulsion systems to power our future vehicles and missions. As a talented Senior Propulsion Test Engineer , you will be responsible for the test and analysis of our future propulsion systems. Key Responsibilities: In your capacity as a Senior Propulsion Test Engineer , your role",
+   "tags": [
+    "релокация"
+   ],
+   "id": "467607e66df2",
+   "first_seen": "2026-11-23T15:49:49+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
+   "active": true
+  },
   {
    "source": "Arbeitnow",
    "company": "SwissPeak Partners GmbH",
@@ -179,7 +196,7 @@
    ],
    "id": "9803ea66dc55",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -196,7 +213,7 @@
    ],
    "id": "f624c07a73bd",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -213,7 +230,7 @@
    ],
    "id": "39656eab9d21",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -231,7 +248,7 @@
    ],
    "id": "0fae743fd97f",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -249,7 +266,7 @@
    ],
    "id": "f413bc31a2e3",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -284,7 +301,7 @@
    ],
    "id": "c89fe67e9b72",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -301,7 +318,7 @@
    ],
    "id": "cff0df4e374b",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -320,7 +337,7 @@
    ],
    "id": "df2592abc45c",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -337,24 +354,24 @@
    ],
    "id": "422354f74017",
    "first_seen": "2026-11-20T13:55:37+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
    "source": "Arbeitnow",
    "company": "Global App Testing",
    "title": "QA Tester (Remote): Test Real Apps, Flexible Hours",
-   "location": "Zürich",
+   "location": "Oslo",
    "remote": true,
    "url": "https://www.arbeitnow.ch/jobs/companies/global-app-testing/qa-testers-needed-zurich-313813",
-   "posted": "2026-11-20T17:47:36+00:00",
+   "posted": "2026-11-23T13:02:36+00:00",
    "description": "Global App Testing Global App Testing provides on-demand crowdtesting by combining automation and intelligent crowdsourcing with over 60,000 professional testers across 150+ countries. Leading brands rely on this approach for fast and accurate test results with an impact-first quality focus. What you will do Execute test cases on various applications and platforms. Identify, log, and track bugs and software defects efficiently. Verify fixes and report test results accurately. What the role requires Experience in quality assurance and software testing is essential for this independent contracto",
    "tags": [
     "remote Европа"
    ],
    "id": "6a56ba0d6556",
    "first_seen": "2026-11-19T14:15:01+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -373,6 +390,23 @@
    "id": "3484d03a6d1a",
    "first_seen": "2026-11-19T14:15:01+00:00",
    "last_seen": "2026-11-22T13:11:48+00:00",
+   "active": false
+  },
+  {
+   "source": "Himalayas",
+   "company": "Business Changers",
+   "title": "Software Tester",
+   "location": "Italy",
+   "remote": true,
+   "url": "https://himalayas.app/companies/business-changers/jobs/software-tester-6726643295?utm_source=api",
+   "posted": "2026-11-22T16:59:08+00:00",
+   "description": "Siamo alla ricerca di una figura di Software Tester da inserire all'interno della nostra struttura. Le principali mansioni sono: Collaborare con il team di sviluppo per comprendere i requisiti del software . Pianificare, progettare e eseguire test manuali ed automatizzat i. Identificare e documentare difetti, anomalie e problemi di qualità . Partecipare alla definizione e all'implementazione di procedure di test. Definire ed aggiornare i casi di test . Collaborare alla risoluzione dei problemi di qualità con il team di sviluppo. Contribuire al miglioramento continuo dei processi di testing. La",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "84f46e52c30f",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -389,7 +423,7 @@
    ],
    "id": "b69e6074024f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -407,7 +441,7 @@
    ],
    "id": "036a4ac6b93d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -425,7 +459,7 @@
    ],
    "id": "fba86c3a5b3d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -442,7 +476,7 @@
    ],
    "id": "33154f452023",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -460,7 +494,7 @@
    ],
    "id": "dd46082cfc6e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -477,7 +511,7 @@
    ],
    "id": "02af12e02f48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -495,7 +529,7 @@
    ],
    "id": "94530b80c3d1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -513,7 +547,7 @@
    ],
    "id": "38b56d448bb6",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -531,7 +565,7 @@
    ],
    "id": "0ea81387b171",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -549,7 +583,7 @@
    ],
    "id": "1ed9ff3148c1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -567,7 +601,7 @@
    ],
    "id": "8fe0896ee525",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -585,7 +619,7 @@
    ],
    "id": "c986040e711b",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -603,7 +637,7 @@
    ],
    "id": "d66c8899020d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -620,7 +654,7 @@
    ],
    "id": "6a94471d7988",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -637,7 +671,7 @@
    ],
    "id": "ab7b2e6ff4a5",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -655,7 +689,7 @@
    ],
    "id": "7c18cf1f037d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -672,7 +706,7 @@
    ],
    "id": "fed2ff1b17c2",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -690,7 +724,7 @@
    ],
    "id": "6dda9534cabe",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -707,25 +741,8 @@
    ],
    "id": "61f9b6187c03",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "Business Changers",
-   "title": "Software Tester",
-   "location": "Italy",
-   "remote": true,
-   "url": "https://himalayas.app/companies/business-changers/jobs/software-tester-6726643295?utm_source=api",
-   "posted": "2026-11-19T18:00:09+00:00",
-   "description": "Siamo alla ricerca di una figura di Software Tester da inserire all'interno della nostra struttura. Le principali mansioni sono: Collaborare con il team di sviluppo per comprendere i requisiti del software . Pianificare, progettare e eseguire test manuali ed automatizzat i. Identificare e documentare difetti, anomalie e problemi di qualità . Partecipare alla definizione e all'implementazione di procedure di test. Definire ed aggiornare i casi di test . Collaborare alla risoluzione dei problemi di qualità con il team di sviluppo. Contribuire al miglioramento continuo dei processi di testing. La",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "84f46e52c30f",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-21T13:19:53+00:00",
-   "active": false
   },
   {
    "source": "Himalayas",
@@ -742,7 +759,7 @@
    ],
    "id": "8c37ce364361",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -759,7 +776,7 @@
    ],
    "id": "80e5b90f434a",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -777,7 +794,7 @@
    ],
    "id": "e894529adcb1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -794,7 +811,7 @@
    ],
    "id": "9bb0d9736e48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -812,7 +829,7 @@
    ],
    "id": "fea6ff3d2d75",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -830,7 +847,7 @@
    ],
    "id": "7a3691170a41",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -847,7 +864,7 @@
    ],
    "id": "d675af6e959e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -864,7 +881,7 @@
    ],
    "id": "b5d28edf8e65",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -882,7 +899,7 @@
    ],
    "id": "bc49ee8f7832",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -899,7 +916,7 @@
    ],
    "id": "5ea0d33fe3ef",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -917,7 +934,7 @@
    ],
    "id": "28f730565731",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -935,7 +952,7 @@
    ],
    "id": "ac0f20f57814",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -952,7 +969,7 @@
    ],
    "id": "a831c5e3a207",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -969,7 +986,7 @@
    ],
    "id": "0eb78c355a36",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -987,7 +1004,7 @@
    ],
    "id": "2943f62ccf50",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1005,7 +1022,7 @@
    ],
    "id": "99218e027f57",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1023,7 +1040,7 @@
    ],
    "id": "2066fb894318",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1041,7 +1058,7 @@
    ],
    "id": "05ba65ff8e38",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1077,7 +1094,7 @@
    ],
    "id": "d93b540c8418",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1095,7 +1112,7 @@
    ],
    "id": "0ff7e6a32359",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1113,7 +1130,7 @@
    "id": "4d3423243299",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-22T13:11:48+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -1147,7 +1164,7 @@
    ],
    "id": "8bf28dae485b",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1164,7 +1181,7 @@
    ],
    "id": "f5c81094b450",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1181,7 +1198,7 @@
    ],
    "id": "ab615fbd4ecf",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1198,7 +1215,7 @@
    ],
    "id": "b74135976d58",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1216,7 +1233,7 @@
    "id": "e9054e21ffd6",
    "first_seen": "2026-11-18T17:43:26+00:00",
    "last_seen": "2026-11-22T13:11:48+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Greenhouse",
@@ -1232,7 +1249,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1249,7 +1266,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1266,7 +1283,7 @@
    ],
    "id": "501105ac71d1",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1317,7 +1334,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1386,7 +1403,7 @@
    ],
    "id": "40d71ad64f07",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1404,7 +1421,7 @@
    "id": "7cdad2ee3b08",
    "first_seen": "2026-11-18T17:38:18+00:00",
    "last_seen": "2026-11-22T13:11:48+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Greenhouse",
@@ -1420,7 +1437,7 @@
    ],
    "id": "cde6c875723a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   },
   {
@@ -1437,7 +1454,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
+   "last_seen": "2026-11-23T15:49:49+00:00",
    "active": true
   }
  ]
