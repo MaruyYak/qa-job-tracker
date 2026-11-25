@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:40:38+00:00",
- "count": 77,
+ "updated": "2026-11-25T15:25:22+00:00",
+ "count": 78,
  "sources": {
   "ashby:airwallex": 5,
   "ashby:ajax": 0,
@@ -45,7 +45,7 @@
   "ashby:preply": 1,
   "ashby:qonto": 0,
   "ashby:ramp": 0,
-  "ashby:rohlik": 2,
+  "ashby:rohlik": 4,
   "ashby:sentry": 0,
   "ashby:snyk": 0,
   "ashby:sorare": 0,
@@ -87,7 +87,7 @@
   "greenhouse:gocardless": 0,
   "greenhouse:grafanalabs": 0,
   "greenhouse:gusto": 0,
-  "greenhouse:hellofresh": 28,
+  "greenhouse:hellofresh": 27,
   "greenhouse:intercom": 0,
   "greenhouse:jetbrains": 0,
   "greenhouse:lokalise": 0,
@@ -100,22 +100,22 @@
   "greenhouse:n26": 0,
   "greenhouse:nebius": 1,
   "greenhouse:netlify": 0,
-  "greenhouse:nix": 7,
+  "greenhouse:nix": 4,
   "greenhouse:nordeus": 0,
-  "greenhouse:okta": 12,
+  "greenhouse:okta": 13,
   "greenhouse:pandadoc": 0,
   "greenhouse:payoneer": 1,
   "greenhouse:raisin": 0,
   "greenhouse:realtimeboardglobal": 0,
   "greenhouse:remedy": 0,
-  "greenhouse:riotgames": 3,
+  "greenhouse:riotgames": 2,
   "greenhouse:smartling": 0,
   "greenhouse:solarisbank": 1,
   "greenhouse:staffbase": 0,
   "greenhouse:stripe": 1,
   "greenhouse:sumup": 0,
   "greenhouse:tamara": 1,
-  "greenhouse:testlio": 15,
+  "greenhouse:testlio": 14,
   "greenhouse:tomorrow": 0,
   "greenhouse:tripadvisor": 0,
   "greenhouse:trivago": 0,
@@ -159,12 +159,30 @@
   "arbeitnow": 1500,
   "remotive": 15,
   "remoteok": 100,
-  "himalayas": 227,
-  "jobicy": 13,
+  "himalayas": 224,
+  "jobicy": 11,
   "weworkremotely": 100,
   "telegram": 30
  },
  "jobs": [
+  {
+   "source": "Himalayas",
+   "company": "Syd Life AI",
+   "title": "QA Engineer",
+   "location": "Worldwide",
+   "remote": true,
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+   "posted": "2026-11-23T00:20:28+00:00",
+   "description": "About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire people",
+   "tags": [
+    "manual в описании",
+    "remote весь мир"
+   ],
+   "id": "87c69fe8ecee",
+   "first_seen": "2026-11-25T15:25:22+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
+   "active": true
+  },
   {
    "source": "WeWorkRemotely",
    "company": "Storyblok",
@@ -180,7 +198,7 @@
    ],
    "id": "1434adf37880",
    "first_seen": "2026-11-24T15:40:38+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -198,7 +216,7 @@
    "id": "84b58fe18323",
    "first_seen": "2026-11-24T15:40:38+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Arbeitnow",
@@ -215,7 +233,7 @@
    "id": "8d30fa9abee3",
    "first_seen": "2026-11-24T15:40:38+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Arbeitnow",
@@ -231,7 +249,7 @@
    ],
    "id": "467607e66df2",
    "first_seen": "2026-11-23T15:49:49+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -248,7 +266,7 @@
    ],
    "id": "9803ea66dc55",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -265,7 +283,7 @@
    ],
    "id": "f624c07a73bd",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -282,7 +300,7 @@
    ],
    "id": "39656eab9d21",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -300,7 +318,7 @@
    ],
    "id": "0fae743fd97f",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -318,7 +336,7 @@
    ],
    "id": "f413bc31a2e3",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -353,7 +371,7 @@
    ],
    "id": "c89fe67e9b72",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -370,7 +388,7 @@
    ],
    "id": "cff0df4e374b",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -389,7 +407,7 @@
    ],
    "id": "df2592abc45c",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -406,7 +424,7 @@
    ],
    "id": "422354f74017",
    "first_seen": "2026-11-20T13:55:37+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -424,7 +442,7 @@
    "id": "6a56ba0d6556",
    "first_seen": "2026-11-19T14:15:01+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -441,8 +459,8 @@
    ],
    "id": "3484d03a6d1a",
    "first_seen": "2026-11-19T14:15:01+00:00",
-   "last_seen": "2026-11-22T13:11:48+00:00",
-   "active": false
+   "last_seen": "2026-11-25T15:25:22+00:00",
+   "active": true
   },
   {
    "source": "Himalayas",
@@ -458,7 +476,7 @@
    ],
    "id": "84f46e52c30f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -475,7 +493,7 @@
    ],
    "id": "b69e6074024f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -493,7 +511,7 @@
    ],
    "id": "036a4ac6b93d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -511,7 +529,7 @@
    ],
    "id": "fba86c3a5b3d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -528,7 +546,7 @@
    ],
    "id": "33154f452023",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -546,7 +564,7 @@
    ],
    "id": "dd46082cfc6e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -563,7 +581,7 @@
    ],
    "id": "02af12e02f48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -581,7 +599,7 @@
    ],
    "id": "94530b80c3d1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -599,7 +617,7 @@
    ],
    "id": "38b56d448bb6",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -617,7 +635,7 @@
    ],
    "id": "0ea81387b171",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -635,7 +653,7 @@
    ],
    "id": "1ed9ff3148c1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -653,7 +671,7 @@
    ],
    "id": "8fe0896ee525",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -671,7 +689,7 @@
    ],
    "id": "c986040e711b",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -689,7 +707,7 @@
    ],
    "id": "d66c8899020d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -706,7 +724,7 @@
    ],
    "id": "6a94471d7988",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -724,7 +742,7 @@
    "id": "ab7b2e6ff4a5",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -741,7 +759,7 @@
    ],
    "id": "7c18cf1f037d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -758,7 +776,7 @@
    ],
    "id": "fed2ff1b17c2",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -776,7 +794,7 @@
    ],
    "id": "6dda9534cabe",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -793,7 +811,7 @@
    ],
    "id": "61f9b6187c03",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -811,7 +829,7 @@
    ],
    "id": "8c37ce364361",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -828,7 +846,7 @@
    ],
    "id": "80e5b90f434a",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -846,7 +864,7 @@
    ],
    "id": "e894529adcb1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -863,7 +881,7 @@
    ],
    "id": "9bb0d9736e48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -881,7 +899,7 @@
    ],
    "id": "fea6ff3d2d75",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -899,7 +917,7 @@
    ],
    "id": "7a3691170a41",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -916,7 +934,7 @@
    ],
    "id": "d675af6e959e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -933,7 +951,7 @@
    ],
    "id": "b5d28edf8e65",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -952,7 +970,7 @@
    "id": "bc49ee8f7832",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -968,7 +986,7 @@
    ],
    "id": "5ea0d33fe3ef",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -986,7 +1004,7 @@
    ],
    "id": "28f730565731",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1004,7 +1022,7 @@
    ],
    "id": "ac0f20f57814",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1021,7 +1039,7 @@
    ],
    "id": "a831c5e3a207",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1038,7 +1056,7 @@
    ],
    "id": "0eb78c355a36",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1057,7 +1075,7 @@
    "id": "2943f62ccf50",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -1074,7 +1092,7 @@
    ],
    "id": "99218e027f57",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1092,7 +1110,7 @@
    ],
    "id": "2066fb894318",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1110,7 +1128,7 @@
    ],
    "id": "05ba65ff8e38",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1147,7 +1165,7 @@
    "id": "d93b540c8418",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -1165,7 +1183,7 @@
    "id": "0ff7e6a32359",
    "first_seen": "2026-11-18T17:48:52+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -1217,7 +1235,7 @@
    "id": "8bf28dae485b",
    "first_seen": "2026-11-18T17:43:26+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Greenhouse",
@@ -1233,7 +1251,7 @@
    ],
    "id": "f5c81094b450",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1250,7 +1268,7 @@
    ],
    "id": "ab615fbd4ecf",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1267,7 +1285,7 @@
    ],
    "id": "b74135976d58",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1301,7 +1319,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1318,7 +1336,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1336,7 +1354,7 @@
    "id": "501105ac71d1",
    "first_seen": "2026-11-18T17:38:18+00:00",
    "last_seen": "2026-11-24T15:40:38+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Arbeitnow",
@@ -1386,7 +1404,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1489,7 +1507,7 @@
    ],
    "id": "cde6c875723a",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   },
   {
@@ -1506,7 +1524,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-24T15:40:38+00:00",
+   "last_seen": "2026-11-25T15:25:22+00:00",
    "active": true
   }
  ]
