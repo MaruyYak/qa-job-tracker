@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T14:51:27+00:00",
- "count": 85,
+ "updated": "2026-11-28T13:59:57+00:00",
+ "count": 88,
  "sources": {
   "ashby:airwallex": 5,
   "ashby:ajax": 0,
@@ -39,7 +39,7 @@
   "ashby:paradox": 0,
   "ashby:phrase": 0,
   "ashby:plaid": 0,
-  "ashby:playson": 0,
+  "ashby:playson": 1,
   "ashby:pleo": 0,
   "ashby:posthog": 0,
   "ashby:preply": 1,
@@ -50,7 +50,7 @@
   "ashby:snyk": 0,
   "ashby:sorare": 0,
   "ashby:supabase": 0,
-  "ashby:supercell": 1,
+  "ashby:supercell": 0,
   "ashby:surfshark": 0,
   "ashby:tbc": 0,
   "ashby:truelayer": 0,
@@ -128,7 +128,7 @@
   "greenhouse:wise": 0,
   "greenhouse:wolt": 1,
   "greenhouse:wrike": 0,
-  "lever:ajax": 20,
+  "lever:ajax": 19,
   "lever:blablacar": 0,
   "lever:contentsquare": 0,
   "lever:dreamgames": 0,
@@ -156,15 +156,68 @@
   "smartrecruiters:tbcbank": 0,
   "smartrecruiters:wise": 5,
   "smartrecruiters:yassir": 0,
-  "arbeitnow": 1469,
-  "remotive": 17,
+  "arbeitnow": 1475,
+  "remotive": 16,
   "remoteok": 100,
-  "himalayas": 225,
-  "jobicy": 12,
+  "himalayas": 226,
+  "jobicy": 99,
   "weworkremotely": 100,
-  "telegram": 32
+  "telegram": 31
  },
  "jobs": [
+  {
+   "source": "Himalayas",
+   "company": "Tester Work",
+   "title": "QA Testers wanted in Croatia!",
+   "location": "Croatia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/tester-work/jobs/qa-testers-wanted-in-croatia?utm_source=api",
+   "posted": "2026-11-28T13:42:02+00:00",
+   "description": "Tester Work provides access to exciting and rewarding project-based opportunities for freelancers. Learn new skills and earn money by testing world-class apps and websites. 🌎 For this specific project, we are looking for QA testers and tech enthusiasts in Croatia! Having joined our community, you will then have regular access to a range of other projects, with unique requirements and workflows: Test Case Executions : Perform a set of flows using specific instructions and compare the results observed with the expected/intended results provided. Functional Exploratory Test Cases : Explore the ap",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "de2a0dbc3dbd",
+   "first_seen": "2026-11-28T13:59:57+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "Sedona Digital",
+   "title": "Manual QA Engineer (Mid-Level)",
+   "location": "Serbia",
+   "remote": true,
+   "url": "https://himalayas.app/companies/sedona-digital/jobs/manual-qa-engineer-mid-level?utm_source=api",
+   "posted": "2026-11-28T00:10:14+00:00",
+   "description": "Sedona Digital is a leading provider of IT Consulting and Services, specialising in Cloud Solutions, Software Engineering, Security, and Data & AI. We partner with enterprises to optimise their technology estates, delivering flexible engagement models ranging from augmentation to outcome-based projects and managed teams. At Sedona, we thrive on solving complex challenges. By blending design, engineering, and analytics, we help organisations harness the power of technology to create innovative digital experiences and shape their future. As part of our continued growth, we are seeking a talented",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "5e3e67b55011",
+   "first_seen": "2026-11-28T13:59:57+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
+   "active": true
+  },
+  {
+   "source": "Ashby",
+   "company": "playson",
+   "title": "Manual QA Engineer (Game Client)",
+   "location": "European Union",
+   "remote": true,
+   "url": "https://jobs.ashbyhq.com/playson/10588b28-7e0b-4881-8dcc-712cde713e70",
+   "posted": "2026-11-27T17:35:52.819+00:00",
+   "description": "Playson is a leading online gaming supplier, founded in 2012, which has developed worldwide recognition in the industry. We offer complete gaming solutions based on the latest technologies and detailed market analysis for the leading iGaming operators. We are seeking a highly skilled Manual QA Engineer to join our Game Client squad with a robust understanding of QA theory and agile methodologies. The ideal candidate will have a background in iGaming or general game development, and will be responsible for ensuring the highest quality of our products. What will you be doing?: - Develop and exec",
+   "tags": [
+    "manual",
+    "remote Европа"
+   ],
+   "id": "41be85fdbbb5",
+   "first_seen": "2026-11-28T13:59:57+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
+   "active": true
+  },
   {
    "source": "Arbeitnow",
    "company": "Andurilindustries",
@@ -180,7 +233,7 @@
    "id": "6590842377f4",
    "first_seen": "2026-11-27T14:51:27+00:00",
    "last_seen": "2026-11-27T14:51:27+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Arbeitnow",
@@ -198,7 +251,7 @@
    "id": "d6b661e7fae0",
    "first_seen": "2026-11-27T14:51:27+00:00",
    "last_seen": "2026-11-27T14:51:27+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Jobicy",
@@ -214,7 +267,7 @@
    ],
    "id": "f0e2ed543bfb",
    "first_seen": "2026-11-27T14:51:27+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -231,7 +284,7 @@
    ],
    "id": "c26a742c6a86",
    "first_seen": "2026-11-27T14:51:27+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -248,7 +301,7 @@
    ],
    "id": "14bbc99c327b",
    "first_seen": "2026-11-27T14:51:27+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -266,7 +319,7 @@
    "id": "f8977a071c7b",
    "first_seen": "2026-11-27T14:51:27+00:00",
    "last_seen": "2026-11-27T14:51:27+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Himalayas",
@@ -283,7 +336,7 @@
    ],
    "id": "e45fdccaf9c9",
    "first_seen": "2026-11-26T14:54:23+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -301,7 +354,7 @@
    ],
    "id": "87c69fe8ecee",
    "first_seen": "2026-11-25T15:25:22+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -404,7 +457,7 @@
    ],
    "id": "f624c07a73bd",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -421,7 +474,7 @@
    ],
    "id": "39656eab9d21",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -439,7 +492,7 @@
    ],
    "id": "0fae743fd97f",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -457,7 +510,7 @@
    ],
    "id": "f413bc31a2e3",
    "first_seen": "2026-11-22T13:11:48+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -493,7 +546,7 @@
    "id": "c89fe67e9b72",
    "first_seen": "2026-11-21T13:19:53+00:00",
    "last_seen": "2026-11-27T14:51:27+00:00",
-   "active": true
+   "active": false
   },
   {
    "source": "Jobicy",
@@ -528,7 +581,7 @@
    ],
    "id": "df2592abc45c",
    "first_seen": "2026-11-21T13:19:53+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -580,7 +633,24 @@
    ],
    "id": "3484d03a6d1a",
    "first_seen": "2026-11-19T14:15:01+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
+   "active": true
+  },
+  {
+   "source": "Himalayas",
+   "company": "intent",
+   "title": "Senior QA Engineer (freelance)",
+   "location": "Poland",
+   "remote": true,
+   "url": "https://himalayas.app/companies/intent/jobs/senior-qa-engineer-freelance?utm_source=api",
+   "posted": "2026-11-28T00:35:45+00:00",
+   "description": "In short If you're a Senior QA Engineer who's tested apps that talk to physical devices, and you know that \"reproduce on my phone\" doesn't end the conversation, we want to talk. You'd join us on a freelance, time & material basis : you're paid for the hours you actually work on real client projects. The first three months are about figuring out if we're a good match. When things work out, and that depends on the work itself, the project pipeline, and business timing, there's a real path to our core team with a permanent contract and full benefits. Why intent ? We've been designing and co-creat",
+   "tags": [
+    "remote Европа"
+   ],
+   "id": "33154f452023",
+   "first_seen": "2026-11-18T17:48:52+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -597,7 +667,7 @@
    ],
    "id": "84f46e52c30f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -614,7 +684,7 @@
    ],
    "id": "b69e6074024f",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -632,7 +702,7 @@
    ],
    "id": "036a4ac6b93d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -650,24 +720,7 @@
    ],
    "id": "fba86c3a5b3d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
-   "active": true
-  },
-  {
-   "source": "Himalayas",
-   "company": "intent",
-   "title": "Senior QA Engineer (freelance)",
-   "location": "Poland",
-   "remote": true,
-   "url": "https://himalayas.app/companies/intent/jobs/senior-qa-engineer-freelance?utm_source=api",
-   "posted": "2026-11-20T16:52:34+00:00",
-   "description": "In short If you're a Senior QA Engineer who's tested apps that talk to physical devices, and you know that \"reproduce on my phone\" doesn't end the conversation, we want to talk. You'd join us on a freelance, time & material basis : you're paid for the hours you actually work on real client projects. The first three months are about figuring out if we're a good match. When things work out, and that depends on the work itself, the project pipeline, and business timing, there's a real path to our core team with a permanent contract and full benefits. Why intent ? We've been designing and co-creat",
-   "tags": [
-    "remote Европа"
-   ],
-   "id": "33154f452023",
-   "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -685,7 +738,7 @@
    ],
    "id": "dd46082cfc6e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -702,7 +755,7 @@
    ],
    "id": "02af12e02f48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -720,7 +773,7 @@
    ],
    "id": "94530b80c3d1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -738,7 +791,7 @@
    ],
    "id": "38b56d448bb6",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -756,7 +809,7 @@
    ],
    "id": "0ea81387b171",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -774,7 +827,7 @@
    ],
    "id": "1ed9ff3148c1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -792,7 +845,7 @@
    ],
    "id": "8fe0896ee525",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -810,7 +863,7 @@
    ],
    "id": "c986040e711b",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -828,7 +881,7 @@
    ],
    "id": "d66c8899020d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -845,7 +898,7 @@
    ],
    "id": "6a94471d7988",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -880,7 +933,7 @@
    ],
    "id": "7c18cf1f037d",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -897,7 +950,7 @@
    ],
    "id": "fed2ff1b17c2",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -915,7 +968,7 @@
    ],
    "id": "6dda9534cabe",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -932,7 +985,7 @@
    ],
    "id": "61f9b6187c03",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -950,7 +1003,7 @@
    ],
    "id": "8c37ce364361",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -967,7 +1020,7 @@
    ],
    "id": "80e5b90f434a",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -985,7 +1038,7 @@
    ],
    "id": "e894529adcb1",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1002,7 +1055,7 @@
    ],
    "id": "9bb0d9736e48",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1020,7 +1073,7 @@
    ],
    "id": "fea6ff3d2d75",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1055,7 +1108,7 @@
    ],
    "id": "d675af6e959e",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1072,7 +1125,7 @@
    ],
    "id": "b5d28edf8e65",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1107,7 +1160,7 @@
    ],
    "id": "5ea0d33fe3ef",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1125,7 +1178,7 @@
    ],
    "id": "28f730565731",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1143,7 +1196,7 @@
    ],
    "id": "ac0f20f57814",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1160,7 +1213,7 @@
    ],
    "id": "a831c5e3a207",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1177,7 +1230,7 @@
    ],
    "id": "0eb78c355a36",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1213,7 +1266,7 @@
    ],
    "id": "99218e027f57",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1231,7 +1284,7 @@
    ],
    "id": "2066fb894318",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1249,7 +1302,7 @@
    ],
    "id": "05ba65ff8e38",
    "first_seen": "2026-11-18T17:48:52+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1440,7 +1493,7 @@
    ],
    "id": "8bc8e04db986",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1457,7 +1510,7 @@
    ],
    "id": "c6f8e4c47052",
    "first_seen": "2026-11-18T17:43:26+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1525,7 +1578,7 @@
    ],
    "id": "28d1b4d6c247",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   },
   {
@@ -1645,7 +1698,7 @@
    ],
    "id": "81684575e743",
    "first_seen": "2026-11-18T17:38:18+00:00",
-   "last_seen": "2026-11-27T14:51:27+00:00",
+   "last_seen": "2026-11-28T13:59:57+00:00",
    "active": true
   }
  ]
